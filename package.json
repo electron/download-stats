@@ -1,0 +1,22 @@
+{
+  "name": "electron-download-stats",
+  "version": "1.0.0",
+  "description": "Historical download data for all the flavors of Electron",
+  "main": "index.js",
+  "repository": "https://github.com/zeke/electron-download-stats",
+  "author": "zeke <zeke@sikelianos.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.4",
+    "npm-run-all": "^4.0.1",
+    "require-dir": "^0.3.1"
+  },
+  "scripts": {
+    "fetch": "npm-run-all fetch:*",
+    "fetch:electron": "curl https://api.npmjs.org/downloads/range/2016-07-26:2018-01-01/electron > data/electron.json",
+    "fetch:electron-prebuilt": "curl https://api.npmjs.org/downloads/range/2010-01-01:2018-01-01/electron-prebuilt > data/electron-prebuilt.json",
+    "fetch:electron-prebuilt-compile": "curl https://api.npmjs.org/downloads/range/2010-01-01:2018-01-01/electron-prebuilt-compile > data/electron-prebuilt-compile.json",
+    "build": "node index.js > readme.md"
+  }
+}
+q
