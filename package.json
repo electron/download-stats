@@ -16,6 +16,6 @@
     "fetch:electron": "curl https://api.npmjs.org/downloads/range/2016-07-26:2018-01-01/electron > data/electron.json",
     "fetch:electron-prebuilt": "curl https://api.npmjs.org/downloads/range/2010-01-01:2018-01-01/electron-prebuilt > data/electron-prebuilt.json",
     "fetch:electron-prebuilt-compile": "curl https://api.npmjs.org/downloads/range/2010-01-01:2018-01-01/electron-prebuilt-compile > data/electron-prebuilt-compile.json",
-    "build": "node index.js > readme.md"
+    "build": "npm run fetch && node index.js > readme.md"
   }
 }
