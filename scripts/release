@@ -8,7 +8,6 @@ set -o nounset    # fail on unset variables
 git clone https://github.com/zeke/electron-download-stats
 cd electron-download-stats
 npm run build
-npm test
 [[ `git status --porcelain` ]] || exit
 git add .
 git config user.email "zeke@sikelianos.com"
