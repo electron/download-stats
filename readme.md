@@ -177,12 +177,12 @@ ffmpeg-v1.5.0-linux-armv7l.zip | 4
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 156449
-electron-v1.4.15-linux-x64.zip | 100200
+SHASUMS256.txt | 156451
+electron-v1.4.15-linux-x64.zip | 100201
 electron-v1.4.15-win32-x64.zip | 38260
-electron-v1.4.15-darwin-x64.zip | 36034
+electron-v1.4.15-darwin-x64.zip | 36035
 electron-v1.4.15-win32-ia32.zip | 12762
-electron-v1.4.15-linux-arm.zip | 5904
+electron-v1.4.15-linux-arm.zip | 5905
 electron-api.json | 4544
 electron-v1.4.15-linux-ia32.zip | 3707
 electron-v1.4.15-mas-x64.zip | 1769
@@ -597,10 +597,10 @@ SHASUMS256.txt | 35934
 electron-v1.4.6-linux-x64.zip | 27448
 electron-v1.4.6-darwin-x64.zip | 15763
 electron-v1.4.6-win32-x64.zip | 11951
-electron-v1.4.6-win32-ia32.zip | 8215
+electron-v1.4.6-win32-ia32.zip | 8216
 ffmpeg-v1.4.6-linux-x64.zip | 6306
 ffmpeg-v1.4.6-darwin-x64.zip | 4239
-ffmpeg-v1.4.6-win32-ia32.zip | 4109
+ffmpeg-v1.4.6-win32-ia32.zip | 4110
 electron-v1.4.6-linux-arm.zip | 1246
 electron-v1.4.6-linux-ia32.zip | 1222
 electron-api.json | 1056
