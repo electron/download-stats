@@ -59,7 +59,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 357638037,
-        "download_count": 83,
+        "download_count": 85,
         "created_at": "2017-04-20T22:28:13Z",
         "updated_at": "2017-04-20T22:28:47Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-darwin-x64-dsym.zip"
@@ -91,7 +91,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43044226,
-        "download_count": 28,
+        "download_count": 30,
         "created_at": "2017-04-20T22:28:07Z",
         "updated_at": "2017-04-20T22:28:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-darwin-x64-symbols.zip"
@@ -123,7 +123,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40769542,
-        "download_count": 235,
+        "download_count": 243,
         "created_at": "2017-04-20T22:28:02Z",
         "updated_at": "2017-04-20T22:28:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-darwin-x64.zip"
@@ -155,7 +155,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 35421413,
-        "download_count": 24,
+        "download_count": 26,
         "created_at": "2017-04-20T22:08:02Z",
         "updated_at": "2017-04-20T22:08:03Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-linux-arm-symbols.zip"
@@ -187,7 +187,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37043519,
-        "download_count": 29,
+        "download_count": 31,
         "created_at": "2017-04-20T22:07:56Z",
         "updated_at": "2017-04-20T22:07:58Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-linux-arm.zip"
@@ -219,7 +219,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 35421413,
-        "download_count": 25,
+        "download_count": 27,
         "created_at": "2017-04-20T22:07:58Z",
         "updated_at": "2017-04-20T22:08:01Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-linux-armv7l-symbols.zip"
@@ -251,7 +251,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37043519,
-        "download_count": 37,
+        "download_count": 39,
         "created_at": "2017-04-20T22:07:55Z",
         "updated_at": "2017-04-20T22:07:56Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-linux-armv7l.zip"
@@ -283,7 +283,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37546267,
-        "download_count": 23,
+        "download_count": 25,
         "created_at": "2017-04-20T22:14:07Z",
         "updated_at": "2017-04-20T22:14:09Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-linux-ia32-symbols.zip"
@@ -315,7 +315,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43786842,
-        "download_count": 41,
+        "download_count": 43,
         "created_at": "2017-04-20T22:14:05Z",
         "updated_at": "2017-04-20T22:14:07Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-linux-ia32.zip"
@@ -347,7 +347,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41748507,
-        "download_count": 28,
+        "download_count": 30,
         "created_at": "2017-04-20T22:18:31Z",
         "updated_at": "2017-04-20T22:18:33Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-linux-x64-symbols.zip"
@@ -379,7 +379,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42629507,
-        "download_count": 162,
+        "download_count": 165,
         "created_at": "2017-04-20T22:18:29Z",
         "updated_at": "2017-04-20T22:18:31Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-linux-x64.zip"
@@ -411,7 +411,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 355129545,
-        "download_count": 22,
+        "download_count": 24,
         "created_at": "2017-04-20T22:23:45Z",
         "updated_at": "2017-04-20T22:24:16Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-mas-x64-dsym.zip"
@@ -443,7 +443,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42870236,
-        "download_count": 23,
+        "download_count": 25,
         "created_at": "2017-04-20T22:23:38Z",
         "updated_at": "2017-04-20T22:23:44Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-mas-x64-symbols.zip"
@@ -475,7 +475,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 39887616,
-        "download_count": 36,
+        "download_count": 38,
         "created_at": "2017-04-20T22:23:32Z",
         "updated_at": "2017-04-20T22:23:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-mas-x64.zip"
@@ -507,7 +507,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 340734273,
-        "download_count": 26,
+        "download_count": 28,
         "created_at": "2017-04-20T23:38:06Z",
         "updated_at": "2017-04-20T23:38:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-win32-ia32-pdb.zip"
@@ -539,7 +539,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37183812,
-        "download_count": 27,
+        "download_count": 29,
         "created_at": "2017-04-20T23:38:01Z",
         "updated_at": "2017-04-20T23:38:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-win32-ia32-symbols.zip"
@@ -571,7 +571,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43256054,
-        "download_count": 342,
+        "download_count": 345,
         "created_at": "2017-04-20T23:37:54Z",
         "updated_at": "2017-04-20T23:37:57Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-win32-ia32.zip"
@@ -603,7 +603,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 344490747,
-        "download_count": 42,
+        "download_count": 44,
         "created_at": "2017-04-20T23:08:28Z",
         "updated_at": "2017-04-20T23:08:47Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-win32-x64-pdb.zip"
@@ -635,7 +635,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 29503510,
-        "download_count": 45,
+        "download_count": 47,
         "created_at": "2017-04-20T23:08:24Z",
         "updated_at": "2017-04-20T23:08:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-win32-x64-symbols.zip"
@@ -667,7 +667,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 53504788,
-        "download_count": 397,
+        "download_count": 409,
         "created_at": "2017-04-20T23:08:19Z",
         "updated_at": "2017-04-20T23:08:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/electron-v1.3.15-win32-x64.zip"
@@ -699,7 +699,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 792555,
-        "download_count": 25,
+        "download_count": 27,
         "created_at": "2017-04-20T22:28:51Z",
         "updated_at": "2017-04-20T22:28:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/ffmpeg-v1.3.15-darwin-x64.zip"
@@ -731,7 +731,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 706282,
-        "download_count": 26,
+        "download_count": 28,
         "created_at": "2017-04-20T22:08:04Z",
         "updated_at": "2017-04-20T22:08:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/ffmpeg-v1.3.15-linux-arm.zip"
@@ -763,7 +763,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 706282,
-        "download_count": 24,
+        "download_count": 26,
         "created_at": "2017-04-20T22:08:04Z",
         "updated_at": "2017-04-20T22:08:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/ffmpeg-v1.3.15-linux-armv7l.zip"
@@ -795,7 +795,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 781866,
-        "download_count": 23,
+        "download_count": 25,
         "created_at": "2017-04-20T22:14:09Z",
         "updated_at": "2017-04-20T22:14:10Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/ffmpeg-v1.3.15-linux-ia32.zip"
@@ -827,7 +827,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 748944,
-        "download_count": 26,
+        "download_count": 28,
         "created_at": "2017-04-20T22:18:33Z",
         "updated_at": "2017-04-20T22:18:34Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/ffmpeg-v1.3.15-linux-x64.zip"
@@ -859,7 +859,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 792553,
-        "download_count": 22,
+        "download_count": 24,
         "created_at": "2017-04-20T22:24:19Z",
         "updated_at": "2017-04-20T22:24:20Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/ffmpeg-v1.3.15-mas-x64.zip"
@@ -891,7 +891,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 698579,
-        "download_count": 26,
+        "download_count": 28,
         "created_at": "2017-04-20T23:38:30Z",
         "updated_at": "2017-04-20T23:38:31Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/ffmpeg-v1.3.15-win32-ia32.zip"
@@ -923,7 +923,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 715508,
-        "download_count": 40,
+        "download_count": 42,
         "created_at": "2017-04-20T23:08:51Z",
         "updated_at": "2017-04-20T23:08:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/ffmpeg-v1.3.15-win32-x64.zip"
@@ -955,7 +955,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2794,
-        "download_count": 152,
+        "download_count": 156,
         "created_at": "2017-04-21T00:04:41Z",
         "updated_at": "2017-04-21T00:04:41Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.15/SHASUMS256.txt"
@@ -1025,7 +1025,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 556017,
-        "download_count": 61,
+        "download_count": 63,
         "created_at": "2017-04-18T20:54:24Z",
         "updated_at": "2017-04-18T20:54:24Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-api.json"
@@ -1057,7 +1057,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 419826944,
-        "download_count": 116,
+        "download_count": 118,
         "created_at": "2017-04-18T20:54:25Z",
         "updated_at": "2017-04-18T20:55:08Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-darwin-x64-dsym.zip"
@@ -1089,7 +1089,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49273523,
-        "download_count": 39,
+        "download_count": 41,
         "created_at": "2017-04-18T20:54:17Z",
         "updated_at": "2017-04-18T20:54:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-darwin-x64-symbols.zip"
@@ -1121,7 +1121,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 46101985,
-        "download_count": 1926,
+        "download_count": 1956,
         "created_at": "2017-04-18T20:54:09Z",
         "updated_at": "2017-04-18T20:54:16Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-darwin-x64.zip"
@@ -1153,7 +1153,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40839477,
-        "download_count": 35,
+        "download_count": 37,
         "created_at": "2017-04-18T16:29:30Z",
         "updated_at": "2017-04-18T16:29:31Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-linux-arm-symbols.zip"
@@ -1185,7 +1185,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42584063,
-        "download_count": 88,
+        "download_count": 92,
         "created_at": "2017-04-18T16:29:24Z",
         "updated_at": "2017-04-18T16:29:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-linux-arm.zip"
@@ -1217,7 +1217,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40839477,
-        "download_count": 33,
+        "download_count": 35,
         "created_at": "2017-04-18T16:29:26Z",
         "updated_at": "2017-04-18T16:29:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-linux-armv7l-symbols.zip"
@@ -1249,7 +1249,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42584063,
-        "download_count": 61,
+        "download_count": 64,
         "created_at": "2017-04-18T16:29:21Z",
         "updated_at": "2017-04-18T16:29:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-linux-armv7l.zip"
@@ -1281,7 +1281,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43961638,
-        "download_count": 39,
+        "download_count": 41,
         "created_at": "2017-04-18T16:37:00Z",
         "updated_at": "2017-04-18T16:37:02Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-linux-ia32-symbols.zip"
@@ -1313,7 +1313,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 50123180,
-        "download_count": 133,
+        "download_count": 137,
         "created_at": "2017-04-18T16:36:58Z",
         "updated_at": "2017-04-18T16:37:00Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-linux-ia32.zip"
@@ -1345,7 +1345,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48330884,
-        "download_count": 37,
+        "download_count": 39,
         "created_at": "2017-04-18T16:42:51Z",
         "updated_at": "2017-04-18T16:42:53Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-linux-x64-symbols.zip"
@@ -1377,7 +1377,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48779093,
-        "download_count": 3303,
+        "download_count": 3365,
         "created_at": "2017-04-18T16:42:49Z",
         "updated_at": "2017-04-18T16:42:51Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-linux-x64.zip"
@@ -1409,7 +1409,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 416730086,
-        "download_count": 37,
+        "download_count": 39,
         "created_at": "2017-04-18T20:04:35Z",
         "updated_at": "2017-04-18T20:05:49Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-mas-x64-dsym.zip"
@@ -1441,7 +1441,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49188984,
-        "download_count": 37,
+        "download_count": 39,
         "created_at": "2017-04-18T20:04:20Z",
         "updated_at": "2017-04-18T20:04:33Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-mas-x64-symbols.zip"
@@ -1473,7 +1473,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 45146065,
-        "download_count": 263,
+        "download_count": 267,
         "created_at": "2017-04-18T20:04:06Z",
         "updated_at": "2017-04-18T20:04:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-mas-x64.zip"
@@ -1505,7 +1505,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 294551512,
-        "download_count": 39,
+        "download_count": 41,
         "created_at": "2017-04-18T16:52:59Z",
         "updated_at": "2017-04-18T16:53:56Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-win32-ia32-pdb.zip"
@@ -1537,7 +1537,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 36711661,
-        "download_count": 41,
+        "download_count": 43,
         "created_at": "2017-04-18T16:52:52Z",
         "updated_at": "2017-04-18T16:52:58Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-win32-ia32-symbols.zip"
@@ -1569,7 +1569,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43148771,
-        "download_count": 421,
+        "download_count": 428,
         "created_at": "2017-04-18T16:52:41Z",
         "updated_at": "2017-04-18T16:52:51Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-win32-ia32.zip"
@@ -1601,7 +1601,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 297744273,
-        "download_count": 91,
+        "download_count": 93,
         "created_at": "2017-04-18T17:22:23Z",
         "updated_at": "2017-04-18T17:23:09Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-win32-x64-pdb.zip"
@@ -1633,7 +1633,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 27092904,
-        "download_count": 40,
+        "download_count": 42,
         "created_at": "2017-04-18T17:22:18Z",
         "updated_at": "2017-04-18T17:22:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-win32-x64-symbols.zip"
@@ -1665,7 +1665,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52389845,
-        "download_count": 1529,
+        "download_count": 1556,
         "created_at": "2017-04-18T17:22:06Z",
         "updated_at": "2017-04-18T17:22:17Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-win32-x64.zip"
@@ -1697,7 +1697,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009081,
-        "download_count": 41,
+        "download_count": 46,
         "created_at": "2017-04-18T20:55:12Z",
         "updated_at": "2017-04-18T20:55:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/ffmpeg-v1.6.7-darwin-x64.zip"
@@ -1729,7 +1729,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 38,
+        "download_count": 40,
         "created_at": "2017-04-18T16:29:32Z",
         "updated_at": "2017-04-18T16:29:32Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/ffmpeg-v1.6.7-linux-arm.zip"
@@ -1761,7 +1761,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 33,
+        "download_count": 35,
         "created_at": "2017-04-18T16:29:32Z",
         "updated_at": "2017-04-18T16:29:32Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/ffmpeg-v1.6.7-linux-armv7l.zip"
@@ -1793,7 +1793,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 996177,
-        "download_count": 34,
+        "download_count": 36,
         "created_at": "2017-04-18T16:37:03Z",
         "updated_at": "2017-04-18T16:37:03Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/ffmpeg-v1.6.7-linux-ia32.zip"
@@ -1825,7 +1825,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 972544,
-        "download_count": 44,
+        "download_count": 47,
         "created_at": "2017-04-18T16:42:54Z",
         "updated_at": "2017-04-18T16:42:54Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/ffmpeg-v1.6.7-linux-x64.zip"
@@ -1857,7 +1857,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009085,
-        "download_count": 33,
+        "download_count": 35,
         "created_at": "2017-04-18T20:05:52Z",
         "updated_at": "2017-04-18T20:05:53Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/ffmpeg-v1.6.7-mas-x64.zip"
@@ -1889,7 +1889,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 834650,
-        "download_count": 41,
+        "download_count": 44,
         "created_at": "2017-04-18T16:53:58Z",
         "updated_at": "2017-04-18T16:53:58Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/ffmpeg-v1.6.7-win32-ia32.zip"
@@ -1921,7 +1921,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 851078,
-        "download_count": 65,
+        "download_count": 68,
         "created_at": "2017-04-18T17:23:11Z",
         "updated_at": "2017-04-18T17:23:11Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/ffmpeg-v1.6.7-win32-x64.zip"
@@ -1953,7 +1953,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 5619,
+        "download_count": 5728,
         "created_at": "2017-04-18T20:58:18Z",
         "updated_at": "2017-04-18T20:58:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/SHASUMS256.txt"
@@ -2023,7 +2023,7 @@
         "content_type": "application/json",
         "state": "uploaded",
         "size": 549363,
-        "download_count": 188,
+        "download_count": 191,
         "created_at": "2017-04-07T18:55:48Z",
         "updated_at": "2017-04-07T18:55:50Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-api.json"
@@ -2055,7 +2055,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 419740873,
-        "download_count": 154,
+        "download_count": 156,
         "created_at": "2017-04-07T17:04:14Z",
         "updated_at": "2017-04-07T17:05:21Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-darwin-x64-dsym.zip"
@@ -2087,7 +2087,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49263735,
-        "download_count": 190,
+        "download_count": 192,
         "created_at": "2017-04-07T17:04:06Z",
         "updated_at": "2017-04-07T17:04:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-darwin-x64-symbols.zip"
@@ -2119,7 +2119,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 46095942,
-        "download_count": 6522,
+        "download_count": 6727,
         "created_at": "2017-04-07T17:03:58Z",
         "updated_at": "2017-04-07T17:04:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-darwin-x64.zip"
@@ -2151,7 +2151,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40829159,
-        "download_count": 91,
+        "download_count": 93,
         "created_at": "2017-04-07T16:09:33Z",
         "updated_at": "2017-04-07T16:09:34Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-linux-arm-symbols.zip"
@@ -2183,7 +2183,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42581636,
-        "download_count": 611,
+        "download_count": 635,
         "created_at": "2017-04-07T16:09:29Z",
         "updated_at": "2017-04-07T16:09:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-linux-arm.zip"
@@ -2215,7 +2215,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40829159,
-        "download_count": 88,
+        "download_count": 90,
         "created_at": "2017-04-07T16:09:31Z",
         "updated_at": "2017-04-07T16:09:32Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-linux-armv7l-symbols.zip"
@@ -2247,7 +2247,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42581636,
-        "download_count": 461,
+        "download_count": 465,
         "created_at": "2017-04-07T16:09:26Z",
         "updated_at": "2017-04-07T16:09:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-linux-armv7l.zip"
@@ -2279,7 +2279,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43948638,
-        "download_count": 86,
+        "download_count": 89,
         "created_at": "2017-04-07T16:17:23Z",
         "updated_at": "2017-04-07T16:17:24Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-linux-ia32-symbols.zip"
@@ -2311,7 +2311,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 50112339,
-        "download_count": 615,
+        "download_count": 625,
         "created_at": "2017-04-07T16:17:20Z",
         "updated_at": "2017-04-07T16:17:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-linux-ia32.zip"
@@ -2343,7 +2343,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48320666,
-        "download_count": 93,
+        "download_count": 96,
         "created_at": "2017-04-07T16:23:15Z",
         "updated_at": "2017-04-07T16:23:17Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-linux-x64-symbols.zip"
@@ -2375,7 +2375,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48768508,
-        "download_count": 11824,
+        "download_count": 12312,
         "created_at": "2017-04-07T16:23:12Z",
         "updated_at": "2017-04-07T16:23:14Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-linux-x64.zip"
@@ -2407,7 +2407,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 416641540,
-        "download_count": 86,
+        "download_count": 89,
         "created_at": "2017-04-07T16:31:48Z",
         "updated_at": "2017-04-07T16:33:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-mas-x64-dsym.zip"
@@ -2439,7 +2439,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49179715,
-        "download_count": 86,
+        "download_count": 89,
         "created_at": "2017-04-07T16:31:34Z",
         "updated_at": "2017-04-07T16:31:45Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-mas-x64-symbols.zip"
@@ -2471,7 +2471,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 45142103,
-        "download_count": 416,
+        "download_count": 422,
         "created_at": "2017-04-07T16:31:23Z",
         "updated_at": "2017-04-07T16:31:33Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-mas-x64.zip"
@@ -2503,7 +2503,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 294265148,
-        "download_count": 212,
+        "download_count": 228,
         "created_at": "2017-04-07T16:16:42Z",
         "updated_at": "2017-04-07T16:18:40Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-win32-ia32-pdb.zip"
@@ -2535,7 +2535,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 36663260,
-        "download_count": 93,
+        "download_count": 96,
         "created_at": "2017-04-07T16:16:26Z",
         "updated_at": "2017-04-07T16:16:41Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-win32-ia32-symbols.zip"
@@ -2567,7 +2567,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43173107,
-        "download_count": 2151,
+        "download_count": 2201,
         "created_at": "2017-04-07T16:16:03Z",
         "updated_at": "2017-04-07T16:16:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-win32-ia32.zip"
@@ -2599,7 +2599,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 297430846,
-        "download_count": 283,
+        "download_count": 286,
         "created_at": "2017-04-07T16:50:07Z",
         "updated_at": "2017-04-07T16:50:44Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-win32-x64-pdb.zip"
@@ -2631,7 +2631,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 27051977,
-        "download_count": 302,
+        "download_count": 305,
         "created_at": "2017-04-07T16:50:02Z",
         "updated_at": "2017-04-07T16:50:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-win32-x64-symbols.zip"
@@ -2663,7 +2663,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52415244,
-        "download_count": 5747,
+        "download_count": 5926,
         "created_at": "2017-04-07T16:49:53Z",
         "updated_at": "2017-04-07T16:50:01Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-win32-x64.zip"
@@ -2695,7 +2695,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009080,
-        "download_count": 822,
+        "download_count": 842,
         "created_at": "2017-04-07T17:05:25Z",
         "updated_at": "2017-04-07T17:05:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-darwin-x64.zip"
@@ -2727,7 +2727,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 207,
+        "download_count": 210,
         "created_at": "2017-04-07T16:09:35Z",
         "updated_at": "2017-04-07T16:09:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-linux-arm.zip"
@@ -2759,7 +2759,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 88,
+        "download_count": 91,
         "created_at": "2017-04-07T16:09:35Z",
         "updated_at": "2017-04-07T16:09:35Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-linux-armv7l.zip"
@@ -2791,7 +2791,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 996177,
-        "download_count": 99,
+        "download_count": 102,
         "created_at": "2017-04-07T16:17:25Z",
         "updated_at": "2017-04-07T16:17:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-linux-ia32.zip"
@@ -2823,7 +2823,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 972544,
-        "download_count": 889,
+        "download_count": 910,
         "created_at": "2017-04-07T16:23:18Z",
         "updated_at": "2017-04-07T16:23:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-linux-x64.zip"
@@ -2855,7 +2855,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009078,
-        "download_count": 96,
+        "download_count": 99,
         "created_at": "2017-04-07T16:33:28Z",
         "updated_at": "2017-04-07T16:33:29Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-mas-x64.zip"
@@ -2887,7 +2887,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 834649,
-        "download_count": 704,
+        "download_count": 719,
         "created_at": "2017-04-07T16:18:42Z",
         "updated_at": "2017-04-07T16:18:42Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-win32-ia32.zip"
@@ -2919,7 +2919,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 851079,
-        "download_count": 127,
+        "download_count": 132,
         "created_at": "2017-04-07T16:50:47Z",
         "updated_at": "2017-04-07T16:50:48Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-win32-x64.zip"
@@ -2951,7 +2951,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 4444,
-        "download_count": 18147,
+        "download_count": 18927,
         "created_at": "2017-04-07T20:04:05Z",
         "updated_at": "2017-04-07T20:04:05Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/SHASUMS256.txt"
@@ -3021,7 +3021,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 410023,
-        "download_count": 2242,
+        "download_count": 2245,
         "created_at": "2017-04-05T17:16:02Z",
         "updated_at": "2017-04-05T17:16:02Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-api.json"
@@ -3053,7 +3053,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 369184920,
-        "download_count": 263,
+        "download_count": 266,
         "created_at": "2017-04-05T17:16:04Z",
         "updated_at": "2017-04-05T17:17:03Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-darwin-x64-dsym.zip"
@@ -3085,7 +3085,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44222497,
-        "download_count": 103,
+        "download_count": 106,
         "created_at": "2017-04-05T17:15:53Z",
         "updated_at": "2017-04-05T17:16:00Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-darwin-x64-symbols.zip"
@@ -3117,7 +3117,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41407446,
-        "download_count": 1126,
+        "download_count": 1129,
         "created_at": "2017-04-05T17:15:41Z",
         "updated_at": "2017-04-05T17:15:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-darwin-x64.zip"
@@ -3149,7 +3149,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 36365756,
-        "download_count": 94,
+        "download_count": 97,
         "created_at": "2017-04-05T16:38:25Z",
         "updated_at": "2017-04-05T16:38:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-linux-arm-symbols.zip"
@@ -3181,7 +3181,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37768291,
-        "download_count": 223,
+        "download_count": 232,
         "created_at": "2017-04-05T16:38:22Z",
         "updated_at": "2017-04-05T16:38:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-linux-arm.zip"
@@ -3213,7 +3213,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 36365756,
-        "download_count": 95,
+        "download_count": 98,
         "created_at": "2017-04-05T16:38:24Z",
         "updated_at": "2017-04-05T16:38:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-linux-armv7l-symbols.zip"
@@ -3245,7 +3245,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37768291,
-        "download_count": 141,
+        "download_count": 145,
         "created_at": "2017-04-05T16:38:20Z",
         "updated_at": "2017-04-05T16:38:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-linux-armv7l.zip"
@@ -3277,7 +3277,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 38447557,
-        "download_count": 96,
+        "download_count": 99,
         "created_at": "2017-04-05T16:45:04Z",
         "updated_at": "2017-04-05T16:45:07Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-linux-ia32-symbols.zip"
@@ -3309,7 +3309,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44555948,
-        "download_count": 201,
+        "download_count": 204,
         "created_at": "2017-04-05T16:45:00Z",
         "updated_at": "2017-04-05T16:45:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-linux-ia32.zip"
@@ -3341,7 +3341,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42725403,
-        "download_count": 97,
+        "download_count": 100,
         "created_at": "2017-04-05T16:50:22Z",
         "updated_at": "2017-04-05T16:50:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-linux-x64-symbols.zip"
@@ -3373,7 +3373,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43355211,
-        "download_count": 18668,
+        "download_count": 19017,
         "created_at": "2017-04-05T16:50:20Z",
         "updated_at": "2017-04-05T16:50:21Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-linux-x64.zip"
@@ -3405,7 +3405,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 366754294,
-        "download_count": 95,
+        "download_count": 97,
         "created_at": "2017-04-05T16:50:52Z",
         "updated_at": "2017-04-05T16:51:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-mas-x64-dsym.zip"
@@ -3437,7 +3437,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44138452,
-        "download_count": 98,
+        "download_count": 100,
         "created_at": "2017-04-05T16:50:40Z",
         "updated_at": "2017-04-05T16:50:50Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-mas-x64-symbols.zip"
@@ -3469,7 +3469,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40491429,
-        "download_count": 139,
+        "download_count": 141,
         "created_at": "2017-04-05T16:50:33Z",
         "updated_at": "2017-04-05T16:50:39Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-mas-x64.zip"
@@ -3501,7 +3501,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 348996739,
-        "download_count": 115,
+        "download_count": 117,
         "created_at": "2017-04-05T17:15:48Z",
         "updated_at": "2017-04-05T17:16:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-win32-ia32-pdb.zip"
@@ -3533,7 +3533,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 38345938,
-        "download_count": 105,
+        "download_count": 107,
         "created_at": "2017-04-05T17:15:42Z",
         "updated_at": "2017-04-05T17:15:47Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-win32-ia32-symbols.zip"
@@ -3565,7 +3565,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44078455,
-        "download_count": 683,
+        "download_count": 685,
         "created_at": "2017-04-05T17:15:34Z",
         "updated_at": "2017-04-05T17:15:41Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-win32-ia32.zip"
@@ -3597,7 +3597,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 351502280,
-        "download_count": 385,
+        "download_count": 387,
         "created_at": "2017-04-05T16:55:12Z",
         "updated_at": "2017-04-05T16:56:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-win32-x64-pdb.zip"
@@ -3629,7 +3629,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 30243236,
-        "download_count": 111,
+        "download_count": 113,
         "created_at": "2017-04-05T16:55:06Z",
         "updated_at": "2017-04-05T16:55:11Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-win32-x64-symbols.zip"
@@ -3661,7 +3661,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54375614,
-        "download_count": 1429,
+        "download_count": 1431,
         "created_at": "2017-04-05T16:54:56Z",
         "updated_at": "2017-04-05T16:55:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-win32-x64.zip"
@@ -3693,7 +3693,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 792362,
-        "download_count": 102,
+        "download_count": 104,
         "created_at": "2017-04-05T17:17:06Z",
         "updated_at": "2017-04-05T17:17:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/ffmpeg-v1.4.16-darwin-x64.zip"
@@ -3725,7 +3725,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 706609,
-        "download_count": 97,
+        "download_count": 99,
         "created_at": "2017-04-05T16:38:28Z",
         "updated_at": "2017-04-05T16:38:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/ffmpeg-v1.4.16-linux-arm.zip"
@@ -3757,7 +3757,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 706609,
-        "download_count": 96,
+        "download_count": 98,
         "created_at": "2017-04-05T16:38:27Z",
         "updated_at": "2017-04-05T16:38:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/ffmpeg-v1.4.16-linux-armv7l.zip"
@@ -3789,7 +3789,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 780680,
-        "download_count": 101,
+        "download_count": 103,
         "created_at": "2017-04-05T16:45:07Z",
         "updated_at": "2017-04-05T16:45:08Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/ffmpeg-v1.4.16-linux-ia32.zip"
@@ -3821,7 +3821,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 747567,
-        "download_count": 107,
+        "download_count": 109,
         "created_at": "2017-04-05T16:50:24Z",
         "updated_at": "2017-04-05T16:50:24Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/ffmpeg-v1.4.16-linux-x64.zip"
@@ -3853,7 +3853,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 792362,
-        "download_count": 96,
+        "download_count": 98,
         "created_at": "2017-04-05T16:51:33Z",
         "updated_at": "2017-04-05T16:51:33Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/ffmpeg-v1.4.16-mas-x64.zip"
@@ -3885,7 +3885,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 697125,
-        "download_count": 117,
+        "download_count": 119,
         "created_at": "2017-04-05T17:16:54Z",
         "updated_at": "2017-04-05T17:16:54Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/ffmpeg-v1.4.16-win32-ia32.zip"
@@ -3917,7 +3917,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 714950,
-        "download_count": 145,
+        "download_count": 146,
         "created_at": "2017-04-05T16:56:22Z",
         "updated_at": "2017-04-05T16:56:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/ffmpeg-v1.4.16-win32-x64.zip"
@@ -3949,7 +3949,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2878,
-        "download_count": 2369,
+        "download_count": 2372,
         "created_at": "2017-04-05T17:34:14Z",
         "updated_at": "2017-04-05T17:34:14Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/SHASUMS256.txt"
@@ -4019,7 +4019,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 539489,
-        "download_count": 215,
+        "download_count": 217,
         "created_at": "2017-03-31T20:25:53Z",
         "updated_at": "2017-03-31T20:25:54Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-api.json"
@@ -4051,7 +4051,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 419683809,
-        "download_count": 198,
+        "download_count": 200,
         "created_at": "2017-03-31T20:25:54Z",
         "updated_at": "2017-03-31T20:26:50Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-darwin-x64-dsym.zip"
@@ -4083,7 +4083,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49248406,
-        "download_count": 131,
+        "download_count": 133,
         "created_at": "2017-03-31T20:25:48Z",
         "updated_at": "2017-03-31T20:25:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-darwin-x64-symbols.zip"
@@ -4115,7 +4115,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 46090389,
-        "download_count": 11784,
+        "download_count": 11795,
         "created_at": "2017-03-31T20:25:41Z",
         "updated_at": "2017-03-31T20:25:47Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-darwin-x64.zip"
@@ -4147,7 +4147,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40827557,
-        "download_count": 123,
+        "download_count": 125,
         "created_at": "2017-03-31T19:18:10Z",
         "updated_at": "2017-03-31T19:18:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-linux-arm-symbols.zip"
@@ -4179,7 +4179,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42579897,
-        "download_count": 1463,
+        "download_count": 1465,
         "created_at": "2017-03-31T19:18:01Z",
         "updated_at": "2017-03-31T19:18:03Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-linux-arm.zip"
@@ -4211,7 +4211,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40827557,
-        "download_count": 120,
+        "download_count": 122,
         "created_at": "2017-03-31T19:18:03Z",
         "updated_at": "2017-03-31T19:18:10Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-linux-armv7l-symbols.zip"
@@ -4243,7 +4243,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42579897,
-        "download_count": 285,
+        "download_count": 288,
         "created_at": "2017-03-31T19:17:58Z",
         "updated_at": "2017-03-31T19:18:00Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-linux-armv7l.zip"
@@ -4275,7 +4275,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43950096,
-        "download_count": 119,
+        "download_count": 121,
         "created_at": "2017-03-31T19:25:32Z",
         "updated_at": "2017-03-31T19:25:35Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-linux-ia32-symbols.zip"
@@ -4307,7 +4307,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 50111035,
-        "download_count": 744,
+        "download_count": 747,
         "created_at": "2017-03-31T19:25:30Z",
         "updated_at": "2017-03-31T19:25:31Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-linux-ia32.zip"
@@ -4339,7 +4339,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48320458,
-        "download_count": 126,
+        "download_count": 128,
         "created_at": "2017-03-31T19:45:53Z",
         "updated_at": "2017-03-31T19:45:55Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-linux-x64-symbols.zip"
@@ -4371,7 +4371,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48764347,
-        "download_count": 29730,
+        "download_count": 29763,
         "created_at": "2017-03-31T19:45:50Z",
         "updated_at": "2017-03-31T19:45:53Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-linux-x64.zip"
@@ -4403,7 +4403,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 416593274,
-        "download_count": 119,
+        "download_count": 121,
         "created_at": "2017-03-31T19:52:12Z",
         "updated_at": "2017-03-31T19:53:13Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-mas-x64-dsym.zip"
@@ -4435,7 +4435,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49162324,
-        "download_count": 119,
+        "download_count": 121,
         "created_at": "2017-03-31T19:52:06Z",
         "updated_at": "2017-03-31T19:52:09Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-mas-x64-symbols.zip"
@@ -4467,7 +4467,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 45132830,
-        "download_count": 525,
+        "download_count": 528,
         "created_at": "2017-03-31T19:52:00Z",
         "updated_at": "2017-03-31T19:52:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-mas-x64.zip"
@@ -4499,7 +4499,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 294213867,
-        "download_count": 132,
+        "download_count": 134,
         "created_at": "2017-03-31T19:33:11Z",
         "updated_at": "2017-03-31T19:33:38Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-win32-ia32-pdb.zip"
@@ -4531,7 +4531,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 36657014,
-        "download_count": 145,
+        "download_count": 147,
         "created_at": "2017-03-31T19:33:06Z",
         "updated_at": "2017-03-31T19:33:10Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-win32-ia32-symbols.zip"
@@ -4563,7 +4563,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43172036,
-        "download_count": 3431,
+        "download_count": 3439,
         "created_at": "2017-03-31T19:32:59Z",
         "updated_at": "2017-03-31T19:33:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-win32-ia32.zip"
@@ -4595,7 +4595,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 297534283,
-        "download_count": 312,
+        "download_count": 321,
         "created_at": "2017-03-31T20:01:42Z",
         "updated_at": "2017-03-31T20:02:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-win32-x64-pdb.zip"
@@ -4627,7 +4627,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 27048552,
-        "download_count": 186,
+        "download_count": 188,
         "created_at": "2017-03-31T20:01:36Z",
         "updated_at": "2017-03-31T20:01:41Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-win32-x64-symbols.zip"
@@ -4659,7 +4659,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52413726,
-        "download_count": 11816,
+        "download_count": 11829,
         "created_at": "2017-03-31T20:01:25Z",
         "updated_at": "2017-03-31T20:01:35Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-win32-x64.zip"
@@ -4691,7 +4691,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009080,
-        "download_count": 192,
+        "download_count": 194,
         "created_at": "2017-03-31T20:26:54Z",
         "updated_at": "2017-03-31T20:26:54Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/ffmpeg-v1.6.5-darwin-x64.zip"
@@ -4723,7 +4723,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 124,
+        "download_count": 126,
         "created_at": "2017-03-31T19:18:13Z",
         "updated_at": "2017-03-31T19:18:13Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/ffmpeg-v1.6.5-linux-arm.zip"
@@ -4755,7 +4755,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 125,
+        "download_count": 127,
         "created_at": "2017-03-31T19:18:13Z",
         "updated_at": "2017-03-31T19:18:13Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/ffmpeg-v1.6.5-linux-armv7l.zip"
@@ -4787,7 +4787,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 996177,
-        "download_count": 120,
+        "download_count": 122,
         "created_at": "2017-03-31T19:25:36Z",
         "updated_at": "2017-03-31T19:25:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/ffmpeg-v1.6.5-linux-ia32.zip"
@@ -4819,7 +4819,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 972544,
-        "download_count": 306,
+        "download_count": 308,
         "created_at": "2017-03-31T19:45:55Z",
         "updated_at": "2017-03-31T19:45:55Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/ffmpeg-v1.6.5-linux-x64.zip"
@@ -4851,7 +4851,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009078,
-        "download_count": 122,
+        "download_count": 124,
         "created_at": "2017-03-31T19:53:17Z",
         "updated_at": "2017-03-31T19:53:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/ffmpeg-v1.6.5-mas-x64.zip"
@@ -4883,7 +4883,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 834649,
-        "download_count": 259,
+        "download_count": 261,
         "created_at": "2017-03-31T19:33:40Z",
         "updated_at": "2017-03-31T19:33:40Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/ffmpeg-v1.6.5-win32-ia32.zip"
@@ -4915,7 +4915,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 851079,
-        "download_count": 224,
+        "download_count": 226,
         "created_at": "2017-03-31T20:02:24Z",
         "updated_at": "2017-03-31T20:02:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/ffmpeg-v1.6.5-win32-x64.zip"
@@ -4947,7 +4947,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 46322,
+        "download_count": 46369,
         "created_at": "2017-03-31T20:32:05Z",
         "updated_at": "2017-03-31T20:32:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/SHASUMS256.txt"
@@ -5017,7 +5017,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 530815,
-        "download_count": 226,
+        "download_count": 228,
         "created_at": "2017-03-22T17:16:53Z",
         "updated_at": "2017-03-22T17:16:54Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-api.json"
@@ -5049,7 +5049,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 422211522,
-        "download_count": 218,
+        "download_count": 220,
         "created_at": "2017-03-22T16:50:03Z",
         "updated_at": "2017-03-22T16:51:17Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-darwin-x64-dsym.zip"
@@ -5081,7 +5081,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49961000,
-        "download_count": 164,
+        "download_count": 166,
         "created_at": "2017-03-22T16:49:55Z",
         "updated_at": "2017-03-22T16:50:01Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-darwin-x64-symbols.zip"
@@ -5113,7 +5113,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47030590,
-        "download_count": 4129,
+        "download_count": 4131,
         "created_at": "2017-03-22T16:49:47Z",
         "updated_at": "2017-03-22T16:49:53Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-darwin-x64.zip"
@@ -5145,7 +5145,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41761709,
-        "download_count": 150,
+        "download_count": 152,
         "created_at": "2017-03-22T16:23:25Z",
         "updated_at": "2017-03-22T16:23:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-linux-arm-symbols.zip"
@@ -5177,7 +5177,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43514045,
-        "download_count": 247,
+        "download_count": 249,
         "created_at": "2017-03-22T16:23:20Z",
         "updated_at": "2017-03-22T16:23:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-linux-arm.zip"
@@ -5209,7 +5209,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41761709,
-        "download_count": 151,
+        "download_count": 153,
         "created_at": "2017-03-22T16:23:23Z",
         "updated_at": "2017-03-22T16:23:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-linux-armv7l-symbols.zip"
@@ -5241,7 +5241,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43514045,
-        "download_count": 228,
+        "download_count": 230,
         "created_at": "2017-03-22T16:23:17Z",
         "updated_at": "2017-03-22T16:23:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-linux-armv7l.zip"
@@ -5273,7 +5273,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44915408,
-        "download_count": 149,
+        "download_count": 151,
         "created_at": "2017-03-22T16:29:30Z",
         "updated_at": "2017-03-22T16:29:31Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-linux-ia32-symbols.zip"
@@ -5305,7 +5305,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 51197218,
-        "download_count": 322,
+        "download_count": 324,
         "created_at": "2017-03-22T16:29:22Z",
         "updated_at": "2017-03-22T16:29:24Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-linux-ia32.zip"
@@ -5337,7 +5337,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49175928,
-        "download_count": 161,
+        "download_count": 163,
         "created_at": "2017-03-22T16:33:29Z",
         "updated_at": "2017-03-22T16:33:31Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-linux-x64-symbols.zip"
@@ -5369,7 +5369,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49792956,
-        "download_count": 5282,
+        "download_count": 5290,
         "created_at": "2017-03-22T16:33:26Z",
         "updated_at": "2017-03-22T16:33:29Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-linux-x64.zip"
@@ -5401,7 +5401,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 419120448,
-        "download_count": 154,
+        "download_count": 156,
         "created_at": "2017-03-22T17:16:54Z",
         "updated_at": "2017-03-22T17:18:00Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-mas-x64-dsym.zip"
@@ -5433,7 +5433,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49878490,
-        "download_count": 148,
+        "download_count": 150,
         "created_at": "2017-03-22T17:16:47Z",
         "updated_at": "2017-03-22T17:16:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-mas-x64-symbols.zip"
@@ -5465,7 +5465,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 46074886,
-        "download_count": 357,
+        "download_count": 359,
         "created_at": "2017-03-22T17:16:42Z",
         "updated_at": "2017-03-22T17:16:47Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-mas-x64.zip"
@@ -5497,7 +5497,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 294290129,
-        "download_count": 162,
+        "download_count": 164,
         "created_at": "2017-03-22T16:34:57Z",
         "updated_at": "2017-03-22T16:35:45Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-win32-ia32-pdb.zip"
@@ -5529,7 +5529,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 36658376,
-        "download_count": 158,
+        "download_count": 160,
         "created_at": "2017-03-22T16:34:49Z",
         "updated_at": "2017-03-22T16:34:56Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-win32-ia32-symbols.zip"
@@ -5561,7 +5561,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43158153,
-        "download_count": 1055,
+        "download_count": 1057,
         "created_at": "2017-03-22T16:34:43Z",
         "updated_at": "2017-03-22T16:34:48Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-win32-ia32.zip"
@@ -5593,7 +5593,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 297599796,
-        "download_count": 546,
+        "download_count": 548,
         "created_at": "2017-03-22T17:04:05Z",
         "updated_at": "2017-03-22T17:04:49Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-win32-x64-pdb.zip"
@@ -5625,7 +5625,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 27048361,
-        "download_count": 219,
+        "download_count": 221,
         "created_at": "2017-03-22T17:04:01Z",
         "updated_at": "2017-03-22T17:04:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-win32-x64-symbols.zip"
@@ -5657,7 +5657,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52398246,
-        "download_count": 3375,
+        "download_count": 3378,
         "created_at": "2017-03-22T17:03:49Z",
         "updated_at": "2017-03-22T17:04:00Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/electron-v1.6.4-win32-x64.zip"
@@ -5689,7 +5689,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009078,
-        "download_count": 166,
+        "download_count": 168,
         "created_at": "2017-03-22T16:51:20Z",
         "updated_at": "2017-03-22T16:51:21Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/ffmpeg-v1.6.4-darwin-x64.zip"
@@ -5721,7 +5721,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 154,
+        "download_count": 156,
         "created_at": "2017-03-22T16:23:30Z",
         "updated_at": "2017-03-22T16:23:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/ffmpeg-v1.6.4-linux-arm.zip"
@@ -5753,7 +5753,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 148,
+        "download_count": 150,
         "created_at": "2017-03-22T16:23:28Z",
         "updated_at": "2017-03-22T16:23:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/ffmpeg-v1.6.4-linux-armv7l.zip"
@@ -5785,7 +5785,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 996177,
-        "download_count": 149,
+        "download_count": 151,
         "created_at": "2017-03-22T16:29:31Z",
         "updated_at": "2017-03-22T16:29:32Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/ffmpeg-v1.6.4-linux-ia32.zip"
@@ -5817,7 +5817,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 972544,
-        "download_count": 166,
+        "download_count": 168,
         "created_at": "2017-03-22T16:33:32Z",
         "updated_at": "2017-03-22T16:33:32Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/ffmpeg-v1.6.4-linux-x64.zip"
@@ -5849,7 +5849,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009077,
-        "download_count": 152,
+        "download_count": 154,
         "created_at": "2017-03-22T17:18:04Z",
         "updated_at": "2017-03-22T17:18:05Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/ffmpeg-v1.6.4-mas-x64.zip"
@@ -5881,7 +5881,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 834669,
-        "download_count": 163,
+        "download_count": 165,
         "created_at": "2017-03-22T16:35:47Z",
         "updated_at": "2017-03-22T16:35:47Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/ffmpeg-v1.6.4-win32-ia32.zip"
@@ -5913,7 +5913,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 850909,
-        "download_count": 172,
+        "download_count": 174,
         "created_at": "2017-03-22T17:04:51Z",
         "updated_at": "2017-03-22T17:04:51Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/ffmpeg-v1.6.4-win32-x64.zip"
@@ -5945,7 +5945,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 9568,
+        "download_count": 9576,
         "created_at": "2017-03-22T23:06:02Z",
         "updated_at": "2017-03-22T23:06:02Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.4/SHASUMS256.txt"
@@ -6015,7 +6015,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 357137251,
-        "download_count": 493,
+        "download_count": 495,
         "created_at": "2017-03-14T18:21:30Z",
         "updated_at": "2017-03-14T18:23:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-darwin-x64-dsym.zip"
@@ -6047,7 +6047,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42541897,
-        "download_count": 282,
+        "download_count": 284,
         "created_at": "2017-03-14T18:21:10Z",
         "updated_at": "2017-03-14T18:21:29Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-darwin-x64-symbols.zip"
@@ -6079,7 +6079,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40768743,
-        "download_count": 1449,
+        "download_count": 1451,
         "created_at": "2017-03-14T18:20:48Z",
         "updated_at": "2017-03-14T18:21:09Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-darwin-x64.zip"
@@ -6111,7 +6111,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 35423514,
-        "download_count": 205,
+        "download_count": 207,
         "created_at": "2017-03-14T17:57:37Z",
         "updated_at": "2017-03-14T17:58:13Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-linux-arm-symbols.zip"
@@ -6143,7 +6143,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37043825,
-        "download_count": 262,
+        "download_count": 264,
         "created_at": "2017-03-14T17:56:09Z",
         "updated_at": "2017-03-14T17:56:56Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-linux-arm.zip"
@@ -6175,7 +6175,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 35423514,
-        "download_count": 202,
+        "download_count": 204,
         "created_at": "2017-03-14T17:56:57Z",
         "updated_at": "2017-03-14T17:57:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-linux-armv7l-symbols.zip"
@@ -6207,7 +6207,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37043825,
-        "download_count": 254,
+        "download_count": 256,
         "created_at": "2017-03-14T17:55:32Z",
         "updated_at": "2017-03-14T17:56:09Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-linux-armv7l.zip"
@@ -6239,7 +6239,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37544044,
-        "download_count": 196,
+        "download_count": 198,
         "created_at": "2017-03-14T18:00:31Z",
         "updated_at": "2017-03-14T18:00:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-linux-ia32-symbols.zip"
@@ -6271,7 +6271,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43787076,
-        "download_count": 342,
+        "download_count": 344,
         "created_at": "2017-03-14T18:00:28Z",
         "updated_at": "2017-03-14T18:00:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-linux-ia32.zip"
@@ -6303,7 +6303,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41748991,
-        "download_count": 212,
+        "download_count": 214,
         "created_at": "2017-03-14T17:52:45Z",
         "updated_at": "2017-03-14T17:53:32Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-linux-x64-symbols.zip"
@@ -6335,7 +6335,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42628818,
-        "download_count": 2381,
+        "download_count": 2384,
         "created_at": "2017-03-14T17:51:48Z",
         "updated_at": "2017-03-14T17:52:45Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-linux-x64.zip"
@@ -6367,7 +6367,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 354625332,
-        "download_count": 307,
+        "download_count": 309,
         "created_at": "2017-03-14T18:42:46Z",
         "updated_at": "2017-03-14T18:44:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-mas-x64-dsym.zip"
@@ -6399,7 +6399,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42368977,
-        "download_count": 193,
+        "download_count": 195,
         "created_at": "2017-03-14T18:42:41Z",
         "updated_at": "2017-03-14T18:42:45Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-mas-x64-symbols.zip"
@@ -6431,7 +6431,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 39888061,
-        "download_count": 357,
+        "download_count": 359,
         "created_at": "2017-03-14T18:42:36Z",
         "updated_at": "2017-03-14T18:42:40Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-mas-x64.zip"
@@ -6463,7 +6463,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 340722845,
-        "download_count": 219,
+        "download_count": 221,
         "created_at": "2017-03-14T18:23:01Z",
         "updated_at": "2017-03-14T18:25:35Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-win32-ia32-pdb.zip"
@@ -6495,7 +6495,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37183866,
-        "download_count": 204,
+        "download_count": 206,
         "created_at": "2017-03-14T18:22:42Z",
         "updated_at": "2017-03-14T18:23:00Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-win32-ia32-symbols.zip"
@@ -6527,7 +6527,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43255844,
-        "download_count": 1687,
+        "download_count": 1689,
         "created_at": "2017-03-14T18:22:28Z",
         "updated_at": "2017-03-14T18:22:42Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-win32-ia32.zip"
@@ -6559,7 +6559,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 344535399,
-        "download_count": 375,
+        "download_count": 377,
         "created_at": "2017-03-14T18:00:30Z",
         "updated_at": "2017-03-14T18:02:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-win32-x64-pdb.zip"
@@ -6591,7 +6591,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 29504345,
-        "download_count": 323,
+        "download_count": 325,
         "created_at": "2017-03-14T18:00:21Z",
         "updated_at": "2017-03-14T18:00:29Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-win32-x64-symbols.zip"
@@ -6623,7 +6623,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 53503581,
-        "download_count": 1875,
+        "download_count": 1878,
         "created_at": "2017-03-14T18:00:02Z",
         "updated_at": "2017-03-14T18:00:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/electron-v1.3.14-win32-x64.zip"
@@ -6655,7 +6655,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 792555,
-        "download_count": 195,
+        "download_count": 197,
         "created_at": "2017-03-14T18:23:55Z",
         "updated_at": "2017-03-14T18:23:55Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/ffmpeg-v1.3.14-darwin-x64.zip"
@@ -6687,7 +6687,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 706282,
-        "download_count": 187,
+        "download_count": 189,
         "created_at": "2017-03-14T17:58:15Z",
         "updated_at": "2017-03-14T17:58:17Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/ffmpeg-v1.3.14-linux-arm.zip"
@@ -6719,7 +6719,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 706282,
-        "download_count": 187,
+        "download_count": 189,
         "created_at": "2017-03-14T17:58:14Z",
         "updated_at": "2017-03-14T17:58:15Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/ffmpeg-v1.3.14-linux-armv7l.zip"
@@ -6751,7 +6751,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 781866,
-        "download_count": 187,
+        "download_count": 189,
         "created_at": "2017-03-14T18:00:36Z",
         "updated_at": "2017-03-14T18:00:38Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/ffmpeg-v1.3.14-linux-ia32.zip"
@@ -6783,7 +6783,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 748944,
-        "download_count": 197,
+        "download_count": 199,
         "created_at": "2017-03-14T17:53:33Z",
         "updated_at": "2017-03-14T17:53:34Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/ffmpeg-v1.3.14-linux-x64.zip"
@@ -6815,7 +6815,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 792553,
-        "download_count": 190,
+        "download_count": 192,
         "created_at": "2017-03-14T18:44:08Z",
         "updated_at": "2017-03-14T18:44:08Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/ffmpeg-v1.3.14-mas-x64.zip"
@@ -6847,7 +6847,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 698579,
-        "download_count": 195,
+        "download_count": 197,
         "created_at": "2017-03-14T18:25:38Z",
         "updated_at": "2017-03-14T18:25:38Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/ffmpeg-v1.3.14-win32-ia32.zip"
@@ -6879,7 +6879,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 715508,
-        "download_count": 247,
+        "download_count": 249,
         "created_at": "2017-03-14T18:02:21Z",
         "updated_at": "2017-03-14T18:02:24Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/ffmpeg-v1.3.14-win32-x64.zip"
@@ -6911,7 +6911,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2794,
-        "download_count": 2075,
+        "download_count": 2077,
         "created_at": "2017-03-14T18:47:45Z",
         "updated_at": "2017-03-14T18:47:46Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.14/SHASUMS256.txt"
@@ -6981,7 +6981,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 516001,
-        "download_count": 308,
+        "download_count": 310,
         "created_at": "2017-03-07T19:24:28Z",
         "updated_at": "2017-03-07T19:24:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-api.json"
@@ -7013,7 +7013,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 412563732,
-        "download_count": 299,
+        "download_count": 301,
         "created_at": "2017-03-07T19:24:29Z",
         "updated_at": "2017-03-07T19:25:40Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-darwin-x64-dsym.zip"
@@ -7045,7 +7045,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48580564,
-        "download_count": 253,
+        "download_count": 255,
         "created_at": "2017-03-07T19:24:18Z",
         "updated_at": "2017-03-07T19:24:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-darwin-x64-symbols.zip"
@@ -7077,7 +7077,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44703974,
-        "download_count": 4056,
+        "download_count": 4058,
         "created_at": "2017-03-07T19:24:07Z",
         "updated_at": "2017-03-07T19:24:17Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-darwin-x64.zip"
@@ -7109,7 +7109,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40499349,
-        "download_count": 242,
+        "download_count": 244,
         "created_at": "2017-03-07T18:17:27Z",
         "updated_at": "2017-03-07T18:17:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-linux-arm-symbols.zip"
@@ -7141,7 +7141,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41516260,
-        "download_count": 366,
+        "download_count": 368,
         "created_at": "2017-03-07T18:17:19Z",
         "updated_at": "2017-03-07T18:17:21Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-linux-arm.zip"
@@ -7173,7 +7173,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40499349,
-        "download_count": 236,
+        "download_count": 238,
         "created_at": "2017-03-07T18:17:21Z",
         "updated_at": "2017-03-07T18:17:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-linux-armv7l-symbols.zip"
@@ -7205,7 +7205,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41516260,
-        "download_count": 466,
+        "download_count": 468,
         "created_at": "2017-03-07T18:17:17Z",
         "updated_at": "2017-03-07T18:17:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-linux-armv7l.zip"
@@ -7237,7 +7237,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43558875,
-        "download_count": 235,
+        "download_count": 237,
         "created_at": "2017-03-07T18:30:48Z",
         "updated_at": "2017-03-07T18:30:50Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-linux-ia32-symbols.zip"
@@ -7269,7 +7269,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48959543,
-        "download_count": 600,
+        "download_count": 602,
         "created_at": "2017-03-07T18:30:45Z",
         "updated_at": "2017-03-07T18:30:47Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-linux-ia32.zip"
@@ -7301,7 +7301,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47910277,
-        "download_count": 243,
+        "download_count": 245,
         "created_at": "2017-03-07T18:23:19Z",
         "updated_at": "2017-03-07T18:23:21Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-linux-x64-symbols.zip"
@@ -7333,7 +7333,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47595246,
-        "download_count": 10048,
+        "download_count": 10061,
         "created_at": "2017-03-07T18:23:16Z",
         "updated_at": "2017-03-07T18:23:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-linux-x64.zip"
@@ -7365,7 +7365,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 409496953,
-        "download_count": 250,
+        "download_count": 252,
         "created_at": "2017-03-07T18:47:26Z",
         "updated_at": "2017-03-07T18:48:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-mas-x64-dsym.zip"
@@ -7397,7 +7397,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48500424,
-        "download_count": 239,
+        "download_count": 241,
         "created_at": "2017-03-07T18:46:13Z",
         "updated_at": "2017-03-07T18:47:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-mas-x64-symbols.zip"
@@ -7429,7 +7429,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43750200,
-        "download_count": 461,
+        "download_count": 463,
         "created_at": "2017-03-07T18:45:55Z",
         "updated_at": "2017-03-07T18:46:11Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-mas-x64.zip"
@@ -7461,7 +7461,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 371062023,
-        "download_count": 265,
+        "download_count": 267,
         "created_at": "2017-03-07T18:36:16Z",
         "updated_at": "2017-03-07T18:37:21Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-win32-ia32-pdb.zip"
@@ -7493,7 +7493,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44382158,
-        "download_count": 247,
+        "download_count": 249,
         "created_at": "2017-03-07T18:36:11Z",
         "updated_at": "2017-03-07T18:36:15Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-win32-ia32-symbols.zip"
@@ -7525,7 +7525,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43099399,
-        "download_count": 2048,
+        "download_count": 2051,
         "created_at": "2017-03-07T18:36:02Z",
         "updated_at": "2017-03-07T18:36:09Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-win32-ia32.zip"
@@ -7557,7 +7557,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 373766761,
-        "download_count": 278,
+        "download_count": 280,
         "created_at": "2017-03-07T19:14:06Z",
         "updated_at": "2017-03-07T19:15:40Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-win32-x64-pdb.zip"
@@ -7589,7 +7589,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 32147691,
-        "download_count": 252,
+        "download_count": 254,
         "created_at": "2017-03-07T19:13:56Z",
         "updated_at": "2017-03-07T19:14:05Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-win32-x64-symbols.zip"
@@ -7621,7 +7621,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52330436,
-        "download_count": 3835,
+        "download_count": 3837,
         "created_at": "2017-03-07T19:13:43Z",
         "updated_at": "2017-03-07T19:13:54Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-win32-x64.zip"
@@ -7653,7 +7653,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009093,
-        "download_count": 255,
+        "download_count": 257,
         "created_at": "2017-03-07T19:25:44Z",
         "updated_at": "2017-03-07T19:25:44Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/ffmpeg-v1.6.3-darwin-x64.zip"
@@ -7685,7 +7685,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 225,
+        "download_count": 227,
         "created_at": "2017-03-07T18:17:29Z",
         "updated_at": "2017-03-07T18:17:29Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/ffmpeg-v1.6.3-linux-arm.zip"
@@ -7717,7 +7717,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 228,
+        "download_count": 230,
         "created_at": "2017-03-07T18:17:28Z",
         "updated_at": "2017-03-07T18:17:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/ffmpeg-v1.6.3-linux-armv7l.zip"
@@ -7749,7 +7749,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 996177,
-        "download_count": 233,
+        "download_count": 235,
         "created_at": "2017-03-07T18:30:50Z",
         "updated_at": "2017-03-07T18:30:51Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/ffmpeg-v1.6.3-linux-ia32.zip"
@@ -7781,7 +7781,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 972544,
-        "download_count": 395,
+        "download_count": 397,
         "created_at": "2017-03-07T18:23:21Z",
         "updated_at": "2017-03-07T18:23:21Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/ffmpeg-v1.6.3-linux-x64.zip"
@@ -7813,7 +7813,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009085,
-        "download_count": 225,
+        "download_count": 227,
         "created_at": "2017-03-07T18:48:55Z",
         "updated_at": "2017-03-07T18:48:55Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/ffmpeg-v1.6.3-mas-x64.zip"
@@ -7845,7 +7845,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 834669,
-        "download_count": 348,
+        "download_count": 350,
         "created_at": "2017-03-07T18:37:23Z",
         "updated_at": "2017-03-07T18:37:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/ffmpeg-v1.6.3-win32-ia32.zip"
@@ -7877,7 +7877,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 850914,
-        "download_count": 365,
+        "download_count": 367,
         "created_at": "2017-03-07T19:15:42Z",
         "updated_at": "2017-03-07T19:15:42Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/ffmpeg-v1.6.3-win32-x64.zip"
@@ -7909,7 +7909,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 15375,
+        "download_count": 15388,
         "created_at": "2017-03-07T19:32:32Z",
         "updated_at": "2017-03-07T19:32:32Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/SHASUMS256.txt"
@@ -7979,7 +7979,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 418005,
-        "download_count": 1462,
+        "download_count": 1464,
         "created_at": "2017-03-01T18:24:24Z",
         "updated_at": "2017-03-01T18:24:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-api.json"
@@ -8011,7 +8011,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 412502410,
-        "download_count": 602,
+        "download_count": 604,
         "created_at": "2017-03-01T17:55:22Z",
         "updated_at": "2017-03-01T17:56:15Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-darwin-x64-dsym.zip"
@@ -8043,7 +8043,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48574548,
-        "download_count": 380,
+        "download_count": 382,
         "created_at": "2017-03-01T17:55:14Z",
         "updated_at": "2017-03-01T17:55:20Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-darwin-x64-symbols.zip"
@@ -8075,7 +8075,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44691942,
-        "download_count": 57015,
+        "download_count": 57035,
         "created_at": "2017-03-01T17:55:06Z",
         "updated_at": "2017-03-01T17:55:13Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-darwin-x64.zip"
@@ -8107,7 +8107,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40494775,
-        "download_count": 280,
+        "download_count": 282,
         "created_at": "2017-03-01T17:17:23Z",
         "updated_at": "2017-03-01T17:17:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-linux-arm-symbols.zip"
@@ -8139,7 +8139,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41507902,
-        "download_count": 7626,
+        "download_count": 7628,
         "created_at": "2017-03-01T17:17:19Z",
         "updated_at": "2017-03-01T17:17:21Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-linux-arm.zip"
@@ -8171,7 +8171,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40494775,
-        "download_count": 279,
+        "download_count": 281,
         "created_at": "2017-03-01T17:17:21Z",
         "updated_at": "2017-03-01T17:17:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-linux-armv7l-symbols.zip"
@@ -8203,7 +8203,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41507902,
-        "download_count": 1795,
+        "download_count": 1798,
         "created_at": "2017-03-01T17:17:16Z",
         "updated_at": "2017-03-01T17:17:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-linux-armv7l.zip"
@@ -8235,7 +8235,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43553390,
-        "download_count": 285,
+        "download_count": 287,
         "created_at": "2017-03-01T17:23:16Z",
         "updated_at": "2017-03-01T17:23:17Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-linux-ia32-symbols.zip"
@@ -8267,7 +8267,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48951101,
-        "download_count": 4792,
+        "download_count": 4795,
         "created_at": "2017-03-01T17:23:13Z",
         "updated_at": "2017-03-01T17:23:15Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-linux-ia32.zip"
@@ -8299,7 +8299,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47903130,
-        "download_count": 347,
+        "download_count": 349,
         "created_at": "2017-03-01T17:43:36Z",
         "updated_at": "2017-03-01T17:43:39Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-linux-x64-symbols.zip"
@@ -8331,7 +8331,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47588468,
-        "download_count": 177632,
+        "download_count": 177673,
         "created_at": "2017-03-01T17:43:34Z",
         "updated_at": "2017-03-01T17:43:35Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-linux-x64.zip"
@@ -8363,7 +8363,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 409405892,
-        "download_count": 381,
+        "download_count": 383,
         "created_at": "2017-03-01T18:24:25Z",
         "updated_at": "2017-03-01T18:25:07Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-mas-x64-dsym.zip"
@@ -8395,7 +8395,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48487097,
-        "download_count": 287,
+        "download_count": 289,
         "created_at": "2017-03-01T18:24:20Z",
         "updated_at": "2017-03-01T18:24:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-mas-x64-symbols.zip"
@@ -8427,7 +8427,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43734533,
-        "download_count": 2675,
+        "download_count": 2680,
         "created_at": "2017-03-01T18:24:14Z",
         "updated_at": "2017-03-01T18:24:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-mas-x64.zip"
@@ -8459,7 +8459,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 370981192,
-        "download_count": 400,
+        "download_count": 402,
         "created_at": "2017-03-01T17:38:45Z",
         "updated_at": "2017-03-01T17:39:38Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-win32-ia32-pdb.zip"
@@ -8491,7 +8491,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44375295,
-        "download_count": 672,
+        "download_count": 674,
         "created_at": "2017-03-01T17:38:38Z",
         "updated_at": "2017-03-01T17:38:44Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-win32-ia32-symbols.zip"
@@ -8523,7 +8523,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43093419,
-        "download_count": 16041,
+        "download_count": 16058,
         "created_at": "2017-03-01T17:38:28Z",
         "updated_at": "2017-03-01T17:38:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-win32-ia32.zip"
@@ -8555,7 +8555,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 373693406,
-        "download_count": 934,
+        "download_count": 936,
         "created_at": "2017-03-01T18:13:11Z",
         "updated_at": "2017-03-01T18:14:02Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-win32-x64-pdb.zip"
@@ -8587,7 +8587,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 32141317,
-        "download_count": 475,
+        "download_count": 477,
         "created_at": "2017-03-01T18:13:05Z",
         "updated_at": "2017-03-01T18:13:10Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-win32-x64-symbols.zip"
@@ -8619,7 +8619,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52325516,
-        "download_count": 62347,
+        "download_count": 62376,
         "created_at": "2017-03-01T18:12:57Z",
         "updated_at": "2017-03-01T18:13:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-win32-x64.zip"
@@ -8651,7 +8651,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009093,
-        "download_count": 324,
+        "download_count": 326,
         "created_at": "2017-03-01T17:56:19Z",
         "updated_at": "2017-03-01T17:56:20Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/ffmpeg-v1.6.2-darwin-x64.zip"
@@ -8683,7 +8683,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 269,
+        "download_count": 271,
         "created_at": "2017-03-01T17:17:25Z",
         "updated_at": "2017-03-01T17:17:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/ffmpeg-v1.6.2-linux-arm.zip"
@@ -8715,7 +8715,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 269,
+        "download_count": 271,
         "created_at": "2017-03-01T17:17:25Z",
         "updated_at": "2017-03-01T17:17:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/ffmpeg-v1.6.2-linux-armv7l.zip"
@@ -8747,7 +8747,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 996177,
-        "download_count": 287,
+        "download_count": 289,
         "created_at": "2017-03-01T17:23:18Z",
         "updated_at": "2017-03-01T17:23:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/ffmpeg-v1.6.2-linux-ia32.zip"
@@ -8779,7 +8779,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 972544,
-        "download_count": 319,
+        "download_count": 321,
         "created_at": "2017-03-01T17:43:39Z",
         "updated_at": "2017-03-01T17:43:39Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/ffmpeg-v1.6.2-linux-x64.zip"
@@ -8811,7 +8811,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009085,
-        "download_count": 273,
+        "download_count": 275,
         "created_at": "2017-03-01T18:25:11Z",
         "updated_at": "2017-03-01T18:25:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/ffmpeg-v1.6.2-mas-x64.zip"
@@ -8843,7 +8843,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 834669,
-        "download_count": 319,
+        "download_count": 321,
         "created_at": "2017-03-01T17:39:41Z",
         "updated_at": "2017-03-01T17:39:41Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/ffmpeg-v1.6.2-win32-ia32.zip"
@@ -8875,7 +8875,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 850914,
-        "download_count": 439,
+        "download_count": 441,
         "created_at": "2017-03-01T18:14:05Z",
         "updated_at": "2017-03-01T18:14:05Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/ffmpeg-v1.6.2-win32-x64.zip"
@@ -8907,7 +8907,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 257262,
+        "download_count": 257339,
         "created_at": "2017-03-01T20:06:38Z",
         "updated_at": "2017-03-01T20:06:38Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/SHASUMS256.txt"
@@ -8977,7 +8977,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 417132,
-        "download_count": 1336,
+        "download_count": 1338,
         "created_at": "2017-02-21T18:06:43Z",
         "updated_at": "2017-02-21T18:06:43Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-api.json"
@@ -9009,7 +9009,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 412451269,
-        "download_count": 394,
+        "download_count": 396,
         "created_at": "2017-02-21T18:06:44Z",
         "updated_at": "2017-02-21T18:09:56Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-darwin-x64-dsym.zip"
@@ -9041,7 +9041,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48566537,
-        "download_count": 335,
+        "download_count": 337,
         "created_at": "2017-02-21T18:06:30Z",
         "updated_at": "2017-02-21T18:06:41Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-darwin-x64-symbols.zip"
@@ -9073,7 +9073,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44688501,
-        "download_count": 14826,
+        "download_count": 14832,
         "created_at": "2017-02-21T18:06:04Z",
         "updated_at": "2017-02-21T18:06:29Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-darwin-x64.zip"
@@ -9105,7 +9105,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40492622,
-        "download_count": 281,
+        "download_count": 283,
         "created_at": "2017-02-21T17:03:24Z",
         "updated_at": "2017-02-21T17:03:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-linux-arm-symbols.zip"
@@ -9137,7 +9137,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41507293,
-        "download_count": 1719,
+        "download_count": 1721,
         "created_at": "2017-02-21T17:03:20Z",
         "updated_at": "2017-02-21T17:03:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-linux-arm.zip"
@@ -9169,7 +9169,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 40492622,
-        "download_count": 280,
+        "download_count": 282,
         "created_at": "2017-02-21T17:03:23Z",
         "updated_at": "2017-02-21T17:03:24Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-linux-armv7l-symbols.zip"
@@ -9201,7 +9201,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41507293,
-        "download_count": 604,
+        "download_count": 606,
         "created_at": "2017-02-21T17:03:19Z",
         "updated_at": "2017-02-21T17:03:20Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-linux-armv7l.zip"
@@ -9233,7 +9233,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43550999,
-        "download_count": 280,
+        "download_count": 282,
         "created_at": "2017-02-21T17:10:54Z",
         "updated_at": "2017-02-21T17:10:55Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-linux-ia32-symbols.zip"
@@ -9265,7 +9265,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48948555,
-        "download_count": 1585,
+        "download_count": 1587,
         "created_at": "2017-02-21T17:10:51Z",
         "updated_at": "2017-02-21T17:10:53Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-linux-ia32.zip"
@@ -9297,7 +9297,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47898999,
-        "download_count": 296,
+        "download_count": 298,
         "created_at": "2017-02-21T17:16:28Z",
         "updated_at": "2017-02-21T17:16:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-linux-x64-symbols.zip"
@@ -9329,7 +9329,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47584756,
-        "download_count": 60274,
+        "download_count": 60383,
         "created_at": "2017-02-21T17:16:26Z",
         "updated_at": "2017-02-21T17:16:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-linux-x64.zip"
@@ -9361,7 +9361,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 409340105,
-        "download_count": 300,
+        "download_count": 302,
         "created_at": "2017-02-21T17:25:22Z",
         "updated_at": "2017-02-21T17:34:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-mas-x64-dsym.zip"
@@ -9393,7 +9393,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48482062,
-        "download_count": 282,
+        "download_count": 284,
         "created_at": "2017-02-21T17:24:54Z",
         "updated_at": "2017-02-21T17:25:20Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-mas-x64-symbols.zip"
@@ -9425,7 +9425,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43732510,
-        "download_count": 829,
+        "download_count": 831,
         "created_at": "2017-02-21T17:24:39Z",
         "updated_at": "2017-02-21T17:24:53Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-mas-x64.zip"
@@ -9457,7 +9457,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 370912690,
-        "download_count": 394,
+        "download_count": 396,
         "created_at": "2017-02-21T17:55:28Z",
         "updated_at": "2017-02-21T17:58:33Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-win32-ia32-pdb.zip"
@@ -9489,7 +9489,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44366161,
-        "download_count": 276,
+        "download_count": 278,
         "created_at": "2017-02-21T17:55:08Z",
         "updated_at": "2017-02-21T17:55:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-win32-ia32-symbols.zip"
@@ -9521,7 +9521,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43091321,
-        "download_count": 4748,
+        "download_count": 4750,
         "created_at": "2017-02-21T17:54:45Z",
         "updated_at": "2017-02-21T17:55:07Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-win32-ia32.zip"
@@ -9553,7 +9553,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 373546432,
-        "download_count": 438,
+        "download_count": 440,
         "created_at": "2017-02-21T17:21:30Z",
         "updated_at": "2017-02-21T17:24:51Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-win32-x64-pdb.zip"
@@ -9585,7 +9585,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 32129774,
-        "download_count": 350,
+        "download_count": 352,
         "created_at": "2017-02-21T17:21:13Z",
         "updated_at": "2017-02-21T17:21:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-win32-x64-symbols.zip"
@@ -9617,7 +9617,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52322586,
-        "download_count": 14836,
+        "download_count": 14841,
         "created_at": "2017-02-21T17:20:43Z",
         "updated_at": "2017-02-21T17:21:11Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/electron-v1.6.1-win32-x64.zip"
@@ -9649,7 +9649,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009093,
-        "download_count": 296,
+        "download_count": 298,
         "created_at": "2017-02-21T18:10:00Z",
         "updated_at": "2017-02-21T18:10:01Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/ffmpeg-v1.6.1-darwin-x64.zip"
@@ -9681,7 +9681,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 267,
+        "download_count": 269,
         "created_at": "2017-02-21T17:03:27Z",
         "updated_at": "2017-02-21T17:03:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/ffmpeg-v1.6.1-linux-arm.zip"
@@ -9713,7 +9713,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 897737,
-        "download_count": 265,
+        "download_count": 267,
         "created_at": "2017-02-21T17:03:26Z",
         "updated_at": "2017-02-21T17:03:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/ffmpeg-v1.6.1-linux-armv7l.zip"
@@ -9745,7 +9745,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 996177,
-        "download_count": 265,
+        "download_count": 267,
         "created_at": "2017-02-21T17:10:56Z",
         "updated_at": "2017-02-21T17:10:56Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/ffmpeg-v1.6.1-linux-ia32.zip"
@@ -9777,7 +9777,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 972544,
-        "download_count": 619,
+        "download_count": 623,
         "created_at": "2017-02-21T17:16:30Z",
         "updated_at": "2017-02-21T17:16:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/ffmpeg-v1.6.1-linux-x64.zip"
@@ -9809,7 +9809,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009085,
-        "download_count": 270,
+        "download_count": 272,
         "created_at": "2017-02-21T17:34:08Z",
         "updated_at": "2017-02-21T17:34:09Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/ffmpeg-v1.6.1-mas-x64.zip"
@@ -9841,7 +9841,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 834669,
-        "download_count": 290,
+        "download_count": 292,
         "created_at": "2017-02-21T17:58:36Z",
         "updated_at": "2017-02-21T17:58:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/ffmpeg-v1.6.1-win32-ia32.zip"
@@ -9873,7 +9873,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 850914,
-        "download_count": 390,
+        "download_count": 393,
         "created_at": "2017-02-21T17:24:53Z",
         "updated_at": "2017-02-21T17:24:54Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/ffmpeg-v1.6.1-win32-x64.zip"
@@ -9905,7 +9905,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 56918,
+        "download_count": 56944,
         "created_at": "2017-02-21T18:24:26Z",
         "updated_at": "2017-02-21T18:24:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.1/SHASUMS256.txt"
@@ -9975,7 +9975,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 6044688,
-        "download_count": 12543,
+        "download_count": 12560,
         "created_at": "2017-02-07T01:25:27Z",
         "updated_at": "2017-02-07T01:25:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/chromedriver-v2.21-darwin-x64.zip"
@@ -10007,7 +10007,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4131960,
-        "download_count": 4285,
+        "download_count": 4303,
         "created_at": "2017-02-07T00:48:27Z",
         "updated_at": "2017-02-07T00:48:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/chromedriver-v2.21-linux-arm.zip"
@@ -10103,7 +10103,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4315283,
-        "download_count": 23295,
+        "download_count": 23327,
         "created_at": "2017-02-07T00:51:50Z",
         "updated_at": "2017-02-07T00:51:50Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/chromedriver-v2.21-linux-x64.zip"
@@ -10167,7 +10167,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3959356,
-        "download_count": 3800,
+        "download_count": 3806,
         "created_at": "2017-02-07T02:02:13Z",
         "updated_at": "2017-02-07T02:02:14Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/chromedriver-v2.21-win32-ia32.zip"
@@ -10199,7 +10199,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4736452,
-        "download_count": 10639,
+        "download_count": 10649,
         "created_at": "2017-02-07T01:35:11Z",
         "updated_at": "2017-02-07T01:35:13Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/chromedriver-v2.21-win32-x64.zip"
@@ -10327,7 +10327,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44666253,
-        "download_count": 6686,
+        "download_count": 6689,
         "created_at": "2017-02-07T01:24:39Z",
         "updated_at": "2017-02-07T01:24:43Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/electron-v1.6.0-darwin-x64.zip"
@@ -10583,7 +10583,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47551431,
-        "download_count": 13488,
+        "download_count": 13501,
         "created_at": "2017-02-07T00:51:45Z",
         "updated_at": "2017-02-07T00:51:48Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/electron-v1.6.0-linux-x64.zip"
@@ -10871,7 +10871,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52325271,
-        "download_count": 9654,
+        "download_count": 9657,
         "created_at": "2017-02-07T01:34:27Z",
         "updated_at": "2017-02-07T01:34:34Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/electron-v1.6.0-win32-x64.zip"
@@ -11159,7 +11159,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 5274652,
-        "download_count": 340,
+        "download_count": 341,
         "created_at": "2017-02-07T01:25:28Z",
         "updated_at": "2017-02-07T01:25:29Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/mksnapshot-v1.6.0-darwin-x64.zip"
@@ -11415,7 +11415,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 4434,
-        "download_count": 71884,
+        "download_count": 71977,
         "created_at": "2017-02-07T02:23:18Z",
         "updated_at": "2017-02-07T02:23:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/SHASUMS256.txt"
@@ -12835,7 +12835,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42923231,
-        "download_count": 3052,
+        "download_count": 3055,
         "created_at": "2017-01-24T17:31:35Z",
         "updated_at": "2017-01-24T17:31:39Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.5.0/electron-v1.5.0-darwin-x64.zip"
@@ -13091,7 +13091,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 45292781,
-        "download_count": 36073,
+        "download_count": 36174,
         "created_at": "2017-01-24T16:37:05Z",
         "updated_at": "2017-01-24T16:37:07Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.5.0/electron-v1.5.0-linux-x64.zip"
@@ -13923,7 +13923,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 4434,
-        "download_count": 45119,
+        "download_count": 45222,
         "created_at": "2017-01-24T18:20:19Z",
         "updated_at": "2017-01-24T18:20:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.5.0/SHASUMS256.txt"
@@ -14089,7 +14089,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42120203,
-        "download_count": 53419,
+        "download_count": 53424,
         "created_at": "2017-01-19T17:56:28Z",
         "updated_at": "2017-01-19T17:56:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/electron-v1.4.15-darwin-x64.zip"
@@ -14281,7 +14281,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44556380,
-        "download_count": 5758,
+        "download_count": 5759,
         "created_at": "2017-01-19T16:46:27Z",
         "updated_at": "2017-01-19T16:46:29Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/electron-v1.4.15-linux-ia32.zip"
@@ -14345,7 +14345,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43355286,
-        "download_count": 186539,
+        "download_count": 186640,
         "created_at": "2017-01-19T17:09:23Z",
         "updated_at": "2017-01-19T17:09:24Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/electron-v1.4.15-linux-x64.zip"
@@ -14537,7 +14537,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44056999,
-        "download_count": 20116,
+        "download_count": 20120,
         "created_at": "2017-01-19T17:47:11Z",
         "updated_at": "2017-01-19T17:47:16Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/electron-v1.4.15-win32-ia32.zip"
@@ -14633,7 +14633,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54368789,
-        "download_count": 57110,
+        "download_count": 57112,
         "created_at": "2017-01-19T17:19:23Z",
         "updated_at": "2017-01-19T17:19:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/electron-v1.4.15-win32-x64.zip"
@@ -14921,7 +14921,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2878,
-        "download_count": 252610,
+        "download_count": 252715,
         "created_at": "2017-01-19T18:10:25Z",
         "updated_at": "2017-01-19T18:10:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/SHASUMS256.txt"
@@ -15087,7 +15087,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42116998,
-        "download_count": 73237,
+        "download_count": 73238,
         "created_at": "2017-01-10T20:30:17Z",
         "updated_at": "2017-01-10T20:30:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.14/electron-v1.4.14-darwin-x64.zip"
@@ -15343,7 +15343,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43352994,
-        "download_count": 33252,
+        "download_count": 33254,
         "created_at": "2017-01-10T19:04:59Z",
         "updated_at": "2017-01-10T19:05:01Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.14/electron-v1.4.14-linux-x64.zip"
@@ -15631,7 +15631,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54342228,
-        "download_count": 14896,
+        "download_count": 14897,
         "created_at": "2017-01-10T20:27:49Z",
         "updated_at": "2017-01-10T20:27:58Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.14/electron-v1.4.14-win32-x64.zip"
@@ -15919,7 +15919,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2878,
-        "download_count": 55397,
+        "download_count": 55400,
         "created_at": "2017-01-10T20:45:06Z",
         "updated_at": "2017-01-10T20:45:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.14/SHASUMS256.txt"
@@ -16085,7 +16085,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42118362,
-        "download_count": 49887,
+        "download_count": 49900,
         "created_at": "2016-12-20T19:15:32Z",
         "updated_at": "2016-12-20T19:15:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/electron-v1.4.13-darwin-x64.zip"
@@ -16341,7 +16341,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43350836,
-        "download_count": 124173,
+        "download_count": 124246,
         "created_at": "2016-12-20T17:37:52Z",
         "updated_at": "2016-12-20T17:37:54Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/electron-v1.4.13-linux-x64.zip"
@@ -16533,7 +16533,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44030471,
-        "download_count": 21119,
+        "download_count": 21122,
         "created_at": "2016-12-20T20:29:26Z",
         "updated_at": "2016-12-20T20:39:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/electron-v1.4.13-win32-ia32.zip"
@@ -16629,7 +16629,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54339658,
-        "download_count": 53073,
+        "download_count": 53092,
         "created_at": "2016-12-20T18:37:05Z",
         "updated_at": "2016-12-20T18:37:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/electron-v1.4.13-win32-x64.zip"
@@ -16917,7 +16917,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2877,
-        "download_count": 191430,
+        "download_count": 191527,
         "created_at": "2016-12-20T21:17:14Z",
         "updated_at": "2016-12-20T21:17:15Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/SHASUMS256.txt"
@@ -17275,7 +17275,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44540725,
-        "download_count": 3183,
+        "download_count": 3184,
         "created_at": "2016-12-10T03:39:32Z",
         "updated_at": "2016-12-10T03:39:33Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.12/electron-v1.4.12-linux-ia32.zip"
@@ -19303,7 +19303,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42627065,
-        "download_count": 8920,
+        "download_count": 8922,
         "created_at": "2016-12-06T22:31:02Z",
         "updated_at": "2016-12-06T22:31:03Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.13/electron-v1.3.13-linux-x64.zip"
@@ -19495,7 +19495,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43188125,
-        "download_count": 1046,
+        "download_count": 1048,
         "created_at": "2016-12-06T22:50:59Z",
         "updated_at": "2016-12-06T22:51:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.13/electron-v1.3.13-win32-ia32.zip"
@@ -19879,7 +19879,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2794,
-        "download_count": 6066,
+        "download_count": 6067,
         "created_at": "2016-12-06T23:53:08Z",
         "updated_at": "2016-12-06T23:53:08Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.13/SHASUMS256.txt"
@@ -20045,7 +20045,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42100458,
-        "download_count": 16335,
+        "download_count": 16336,
         "created_at": "2016-11-28T21:29:06Z",
         "updated_at": "2016-11-28T21:29:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.10/electron-v1.4.10-darwin-x64.zip"
@@ -20301,7 +20301,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43333454,
-        "download_count": 32437,
+        "download_count": 32443,
         "created_at": "2016-11-28T21:09:04Z",
         "updated_at": "2016-11-28T21:09:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.10/electron-v1.4.10-linux-x64.zip"
@@ -20877,7 +20877,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2878,
-        "download_count": 52797,
+        "download_count": 52803,
         "created_at": "2016-11-28T22:12:51Z",
         "updated_at": "2016-11-28T22:12:51Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.10/SHASUMS256.txt"
@@ -23941,7 +23941,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41423016,
-        "download_count": 3188,
+        "download_count": 3189,
         "created_at": "2016-11-16T20:03:24Z",
         "updated_at": "2016-11-16T20:03:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.9/electron-v1.3.9-darwin-x64.zip"
@@ -24485,7 +24485,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 53308553,
-        "download_count": 11848,
+        "download_count": 11854,
         "created_at": "2016-11-16T20:42:46Z",
         "updated_at": "2016-11-16T20:42:53Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.3.9/electron-v1.3.9-win32-x64.zip"
@@ -25937,7 +25937,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42054179,
-        "download_count": 18728,
+        "download_count": 18729,
         "created_at": "2016-11-09T21:19:32Z",
         "updated_at": "2016-11-09T21:19:34Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.6/electron-v1.4.6-darwin-x64.zip"
@@ -26193,7 +26193,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43321192,
-        "download_count": 33086,
+        "download_count": 33094,
         "created_at": "2016-11-09T20:19:14Z",
         "updated_at": "2016-11-09T20:19:17Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.6/electron-v1.4.6-linux-x64.zip"
@@ -26513,7 +26513,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 792365,
-        "download_count": 6941,
+        "download_count": 6942,
         "created_at": "2016-11-09T21:19:58Z",
         "updated_at": "2016-11-09T21:19:58Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.6/ffmpeg-v1.4.6-darwin-x64.zip"
@@ -26641,7 +26641,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 747567,
-        "download_count": 11582,
+        "download_count": 11589,
         "created_at": "2016-11-09T20:19:22Z",
         "updated_at": "2016-11-09T20:19:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.6/ffmpeg-v1.4.6-linux-x64.zip"
@@ -27191,7 +27191,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43320560,
-        "download_count": 20924,
+        "download_count": 20926,
         "created_at": "2016-11-01T16:10:50Z",
         "updated_at": "2016-11-01T16:10:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.5/electron-v1.4.5-linux-x64.zip"
@@ -27767,7 +27767,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 39154,
+        "download_count": 39156,
         "created_at": "2016-11-01T17:34:36Z",
         "updated_at": "2016-11-01T17:34:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.5/SHASUMS256.txt"
@@ -29155,7 +29155,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43283644,
-        "download_count": 32311,
+        "download_count": 32314,
         "created_at": "2016-10-18T05:04:41Z",
         "updated_at": "2016-10-18T05:04:44Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.4/electron-v1.4.4-linux-x64.zip"
@@ -29347,7 +29347,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43983322,
-        "download_count": 7304,
+        "download_count": 7305,
         "created_at": "2016-10-20T00:33:59Z",
         "updated_at": "2016-10-20T00:34:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.4/electron-v1.4.4-win32-ia32.zip"
@@ -29443,7 +29443,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54282488,
-        "download_count": 16344,
+        "download_count": 16346,
         "created_at": "2016-10-20T01:07:44Z",
         "updated_at": "2016-10-20T01:07:51Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.4/electron-v1.4.4-win32-x64.zip"
@@ -29731,7 +29731,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 61877,
+        "download_count": 61881,
         "created_at": "2016-10-20T02:23:39Z",
         "updated_at": "2016-10-20T02:23:40Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.4/SHASUMS256.txt"
@@ -29897,7 +29897,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42002861,
-        "download_count": 24782,
+        "download_count": 24784,
         "created_at": "2016-10-06T09:40:10Z",
         "updated_at": "2016-10-06T09:40:13Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.3/electron-v1.4.3-darwin-x64.zip"
@@ -30729,7 +30729,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 76797,
+        "download_count": 76799,
         "created_at": "2016-10-06T10:07:54Z",
         "updated_at": "2016-10-06T10:07:54Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.3/SHASUMS256.txt"
