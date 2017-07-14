@@ -59,7 +59,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 619161,
-        "download_count": 160,
+        "download_count": 161,
         "created_at": "2017-06-28T23:03:51Z",
         "updated_at": "2017-06-28T23:03:53Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/electron-api.json"
@@ -91,7 +91,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 441297827,
-        "download_count": 116,
+        "download_count": 117,
         "created_at": "2017-06-28T23:03:56Z",
         "updated_at": "2017-06-28T23:05:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/electron-v1.7.4-darwin-x64-dsym.zip"
@@ -123,7 +123,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54998799,
-        "download_count": 55,
+        "download_count": 56,
         "created_at": "2017-06-28T23:03:41Z",
         "updated_at": "2017-06-28T23:03:49Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/electron-v1.7.4-darwin-x64-symbols.zip"
@@ -155,7 +155,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48405942,
-        "download_count": 5640,
+        "download_count": 5665,
         "created_at": "2017-06-28T23:03:32Z",
         "updated_at": "2017-06-28T23:03:39Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/electron-v1.7.4-darwin-x64.zip"
@@ -283,7 +283,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44769398,
-        "download_count": 189,
+        "download_count": 190,
         "created_at": "2017-06-28T21:55:20Z",
         "updated_at": "2017-06-28T21:55:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/electron-v1.7.4-linux-armv7l.zip"
@@ -411,7 +411,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 51170816,
-        "download_count": 9597,
+        "download_count": 9615,
         "created_at": "2017-06-28T22:13:09Z",
         "updated_at": "2017-06-28T22:13:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/electron-v1.7.4-linux-x64.zip"
@@ -507,7 +507,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47441101,
-        "download_count": 407,
+        "download_count": 408,
         "created_at": "2017-06-28T22:10:15Z",
         "updated_at": "2017-06-28T22:10:20Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/electron-v1.7.4-mas-x64.zip"
@@ -603,7 +603,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44442463,
-        "download_count": 1367,
+        "download_count": 1371,
         "created_at": "2017-06-28T22:04:22Z",
         "updated_at": "2017-06-28T22:04:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/electron-v1.7.4-win32-ia32.zip"
@@ -699,7 +699,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 53901056,
-        "download_count": 5206,
+        "download_count": 5230,
         "created_at": "2017-06-28T22:08:30Z",
         "updated_at": "2017-06-28T22:08:33Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/electron-v1.7.4-win32-x64.zip"
@@ -1000,7 +1000,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -1019,7 +1019,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2930,
-        "download_count": 17023,
+        "download_count": 17062,
         "created_at": "2017-06-28T23:09:22Z",
         "updated_at": "2017-06-28T23:09:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.4/SHASUMS256.txt"
@@ -1185,7 +1185,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48413972,
-        "download_count": 8450,
+        "download_count": 8451,
         "created_at": "2017-06-08T22:24:24Z",
         "updated_at": "2017-06-08T22:24:29Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.3/electron-v1.7.3-darwin-x64.zip"
@@ -1441,7 +1441,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 51154756,
-        "download_count": 12238,
+        "download_count": 12239,
         "created_at": "2017-06-08T21:19:17Z",
         "updated_at": "2017-06-08T21:19:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.3/electron-v1.7.3-linux-x64.zip"
@@ -1729,7 +1729,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54045902,
-        "download_count": 7222,
+        "download_count": 7224,
         "created_at": "2017-06-08T21:21:08Z",
         "updated_at": "2017-06-08T21:21:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.3/electron-v1.7.3-win32-x64.zip"
@@ -2030,7 +2030,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -2049,7 +2049,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2930,
-        "download_count": 23523,
+        "download_count": 23526,
         "created_at": "2017-06-08T22:46:00Z",
         "updated_at": "2017-06-08T22:46:00Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.3/SHASUMS256.txt"
@@ -3060,7 +3060,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -3149,7 +3149,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 598932,
-        "download_count": 4783,
+        "download_count": 4788,
         "created_at": "2017-05-25T19:31:20Z",
         "updated_at": "2017-05-25T19:31:20Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron-api.json"
@@ -3213,7 +3213,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 49286953,
-        "download_count": 209,
+        "download_count": 210,
         "created_at": "2017-05-25T18:36:20Z",
         "updated_at": "2017-05-25T18:36:24Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron-v1.6.11-darwin-x64-symbols.zip"
@@ -3245,7 +3245,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 46077999,
-        "download_count": 50039,
+        "download_count": 50119,
         "created_at": "2017-05-25T18:36:16Z",
         "updated_at": "2017-05-25T18:36:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron-v1.6.11-darwin-x64.zip"
@@ -3309,7 +3309,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42560874,
-        "download_count": 4701,
+        "download_count": 4705,
         "created_at": "2017-05-25T18:06:20Z",
         "updated_at": "2017-05-25T18:06:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron-v1.6.11-linux-arm.zip"
@@ -3437,7 +3437,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 50108429,
-        "download_count": 2981,
+        "download_count": 2986,
         "created_at": "2017-05-25T18:14:41Z",
         "updated_at": "2017-05-25T18:14:43Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron-v1.6.11-linux-ia32.zip"
@@ -3501,7 +3501,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48754345,
-        "download_count": 152121,
+        "download_count": 152503,
         "created_at": "2017-05-25T18:21:07Z",
         "updated_at": "2017-05-25T18:21:08Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron-v1.6.11-linux-x64.zip"
@@ -3597,7 +3597,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 45122367,
-        "download_count": 1929,
+        "download_count": 1930,
         "created_at": "2017-05-25T19:31:06Z",
         "updated_at": "2017-05-25T19:31:11Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron-v1.6.11-mas-x64.zip"
@@ -3693,7 +3693,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43040171,
-        "download_count": 13856,
+        "download_count": 13868,
         "created_at": "2017-05-25T18:31:24Z",
         "updated_at": "2017-05-25T18:31:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron-v1.6.11-win32-ia32.zip"
@@ -3789,7 +3789,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52284035,
-        "download_count": 57495,
+        "download_count": 57568,
         "created_at": "2017-05-25T18:52:31Z",
         "updated_at": "2017-05-25T18:52:34Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron-v1.6.11-win32-x64.zip"
@@ -3821,7 +3821,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 313512,
-        "download_count": 277,
+        "download_count": 278,
         "created_at": "2017-05-25T19:31:22Z",
         "updated_at": "2017-05-25T19:31:22Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/electron.d.ts"
@@ -4090,7 +4090,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -4109,7 +4109,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2958,
-        "download_count": 232372,
+        "download_count": 232852,
         "created_at": "2017-05-25T19:52:36Z",
         "updated_at": "2017-05-25T19:52:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.11/SHASUMS256.txt"
@@ -4723,7 +4723,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44392954,
-        "download_count": 1721,
+        "download_count": 1722,
         "created_at": "2017-05-16T20:05:29Z",
         "updated_at": "2017-05-16T20:05:32Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.1/electron-v1.7.1-win32-ia32.zip"
@@ -5120,7 +5120,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -5305,7 +5305,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 46110796,
-        "download_count": 28276,
+        "download_count": 28278,
         "created_at": "2017-05-16T18:21:29Z",
         "updated_at": "2017-05-16T18:21:34Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.10/electron-v1.6.10-darwin-x64.zip"
@@ -5561,7 +5561,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48786928,
-        "download_count": 82463,
+        "download_count": 82472,
         "created_at": "2017-05-16T18:03:24Z",
         "updated_at": "2017-05-16T18:03:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.10/electron-v1.6.10-linux-x64.zip"
@@ -5753,7 +5753,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43157131,
-        "download_count": 9272,
+        "download_count": 9273,
         "created_at": "2017-05-16T19:08:57Z",
         "updated_at": "2017-05-16T19:09:00Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.10/electron-v1.6.10-win32-ia32.zip"
@@ -5849,7 +5849,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52399928,
-        "download_count": 36567,
+        "download_count": 36572,
         "created_at": "2017-05-16T18:09:01Z",
         "updated_at": "2017-05-16T18:09:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.10/electron-v1.6.10-win32-x64.zip"
@@ -5913,7 +5913,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009081,
-        "download_count": 284,
+        "download_count": 285,
         "created_at": "2017-05-16T18:22:26Z",
         "updated_at": "2017-05-16T18:22:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.10/ffmpeg-v1.6.10-darwin-x64.zip"
@@ -6150,7 +6150,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -6169,7 +6169,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2958,
-        "download_count": 123021,
+        "download_count": 123037,
         "created_at": "2017-05-26T18:40:55Z",
         "updated_at": "2017-05-26T18:40:55Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.10/SHASUMS256.txt"
@@ -6239,7 +6239,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 6397699,
-        "download_count": 9277,
+        "download_count": 9283,
         "created_at": "2017-05-10T18:49:29Z",
         "updated_at": "2017-05-10T18:49:31Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.0/chromedriver-v1.7.0-darwin-x64.zip"
@@ -6271,7 +6271,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4305651,
-        "download_count": 2572,
+        "download_count": 2573,
         "created_at": "2017-05-10T17:51:47Z",
         "updated_at": "2017-05-10T17:51:48Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.0/chromedriver-v1.7.0-linux-arm.zip"
@@ -6367,7 +6367,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4500879,
-        "download_count": 15830,
+        "download_count": 15846,
         "created_at": "2017-05-10T18:06:02Z",
         "updated_at": "2017-05-10T18:06:02Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.0/chromedriver-v1.7.0-linux-x64.zip"
@@ -6431,7 +6431,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4126062,
-        "download_count": 2074,
+        "download_count": 2079,
         "created_at": "2017-05-10T18:07:33Z",
         "updated_at": "2017-05-10T18:07:34Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.0/chromedriver-v1.7.0-win32-ia32.zip"
@@ -6463,7 +6463,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4953754,
-        "download_count": 5473,
+        "download_count": 5475,
         "created_at": "2017-05-10T18:16:08Z",
         "updated_at": "2017-05-10T18:16:09Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.0/chromedriver-v1.7.0-win32-x64.zip"
@@ -7692,7 +7692,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -7711,7 +7711,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 4522,
-        "download_count": 40775,
+        "download_count": 40803,
         "created_at": "2017-05-10T19:58:23Z",
         "updated_at": "2017-05-10T19:58:23Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.7.0/SHASUMS256.txt"
@@ -8722,7 +8722,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -9163,7 +9163,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48782797,
-        "download_count": 58071,
+        "download_count": 58073,
         "created_at": "2017-05-01T22:35:46Z",
         "updated_at": "2017-05-01T22:35:48Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.8/electron-v1.6.8-linux-x64.zip"
@@ -9720,7 +9720,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -9739,7 +9739,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 90544,
+        "download_count": 90546,
         "created_at": "2017-05-01T22:56:28Z",
         "updated_at": "2017-05-01T22:56:28Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.8/SHASUMS256.txt"
@@ -10686,7 +10686,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -11127,7 +11127,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48779093,
-        "download_count": 52582,
+        "download_count": 52587,
         "created_at": "2017-04-18T16:42:49Z",
         "updated_at": "2017-04-18T16:42:51Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/electron-v1.6.7-linux-x64.zip"
@@ -11684,7 +11684,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -11703,7 +11703,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 78466,
+        "download_count": 78471,
         "created_at": "2017-04-18T20:58:18Z",
         "updated_at": "2017-04-18T20:58:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.7/SHASUMS256.txt"
@@ -11754,7 +11754,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -11869,7 +11869,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 46095942,
-        "download_count": 45506,
+        "download_count": 45516,
         "created_at": "2017-04-07T17:03:58Z",
         "updated_at": "2017-04-07T17:04:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-darwin-x64.zip"
@@ -12125,7 +12125,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48768508,
-        "download_count": 113647,
+        "download_count": 113651,
         "created_at": "2017-04-07T16:23:12Z",
         "updated_at": "2017-04-07T16:23:14Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-linux-x64.zip"
@@ -12413,7 +12413,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52415244,
-        "download_count": 41478,
+        "download_count": 41482,
         "created_at": "2017-04-07T16:49:53Z",
         "updated_at": "2017-04-07T16:50:01Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/electron-v1.6.6-win32-x64.zip"
@@ -12445,7 +12445,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 1009080,
-        "download_count": 5599,
+        "download_count": 5603,
         "created_at": "2017-04-07T17:05:25Z",
         "updated_at": "2017-04-07T17:05:25Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-darwin-x64.zip"
@@ -12573,7 +12573,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 972544,
-        "download_count": 11170,
+        "download_count": 11172,
         "created_at": "2017-04-07T16:23:18Z",
         "updated_at": "2017-04-07T16:23:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/ffmpeg-v1.6.6-linux-x64.zip"
@@ -12682,7 +12682,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -12701,7 +12701,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 4444,
-        "download_count": 166629,
+        "download_count": 166637,
         "created_at": "2017-04-07T20:04:05Z",
         "updated_at": "2017-04-07T20:04:05Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.6/SHASUMS256.txt"
@@ -12867,7 +12867,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 41407446,
-        "download_count": 3486,
+        "download_count": 3487,
         "created_at": "2017-04-05T17:15:41Z",
         "updated_at": "2017-04-05T17:15:52Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-darwin-x64.zip"
@@ -13123,7 +13123,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43355211,
-        "download_count": 29132,
+        "download_count": 29133,
         "created_at": "2017-04-05T16:50:20Z",
         "updated_at": "2017-04-05T16:50:21Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/electron-v1.4.16-linux-x64.zip"
@@ -13680,7 +13680,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -13699,7 +13699,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2878,
-        "download_count": 12383,
+        "download_count": 12385,
         "created_at": "2017-04-05T17:34:14Z",
         "updated_at": "2017-04-05T17:34:14Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.16/SHASUMS256.txt"
@@ -13865,7 +13865,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 46090389,
-        "download_count": 14598,
+        "download_count": 14599,
         "created_at": "2017-03-31T20:25:41Z",
         "updated_at": "2017-03-31T20:25:47Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/electron-v1.6.5-darwin-x64.zip"
@@ -14678,7 +14678,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -14697,7 +14697,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 55410,
+        "download_count": 55411,
         "created_at": "2017-03-31T20:32:05Z",
         "updated_at": "2017-03-31T20:32:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.5/SHASUMS256.txt"
@@ -15676,7 +15676,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -16642,7 +16642,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -17083,7 +17083,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47595246,
-        "download_count": 15312,
+        "download_count": 15313,
         "created_at": "2017-03-07T18:23:16Z",
         "updated_at": "2017-03-07T18:23:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/electron-v1.6.3-linux-x64.zip"
@@ -17640,7 +17640,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -17659,7 +17659,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 21078,
+        "download_count": 21079,
         "created_at": "2017-03-07T19:32:32Z",
         "updated_at": "2017-03-07T19:32:32Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.3/SHASUMS256.txt"
@@ -17825,7 +17825,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44691942,
-        "download_count": 62352,
+        "download_count": 62355,
         "created_at": "2017-03-01T17:55:06Z",
         "updated_at": "2017-03-01T17:55:13Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-darwin-x64.zip"
@@ -18081,7 +18081,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47588468,
-        "download_count": 197851,
+        "download_count": 197858,
         "created_at": "2017-03-01T17:43:34Z",
         "updated_at": "2017-03-01T17:43:35Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-linux-x64.zip"
@@ -18369,7 +18369,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 52325516,
-        "download_count": 69587,
+        "download_count": 69588,
         "created_at": "2017-03-01T18:12:57Z",
         "updated_at": "2017-03-01T18:13:04Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/electron-v1.6.2-win32-x64.zip"
@@ -18638,7 +18638,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -18657,7 +18657,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2850,
-        "download_count": 286960,
+        "download_count": 286968,
         "created_at": "2017-03-01T20:06:38Z",
         "updated_at": "2017-03-01T20:06:38Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.2/SHASUMS256.txt"
@@ -19636,7 +19636,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -19725,7 +19725,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 6044688,
-        "download_count": 24102,
+        "download_count": 24107,
         "created_at": "2017-02-07T01:25:27Z",
         "updated_at": "2017-02-07T01:25:27Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/chromedriver-v2.21-darwin-x64.zip"
@@ -19853,7 +19853,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4315283,
-        "download_count": 44509,
+        "download_count": 44513,
         "created_at": "2017-02-07T00:51:50Z",
         "updated_at": "2017-02-07T00:51:50Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/chromedriver-v2.21-linux-x64.zip"
@@ -19917,7 +19917,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 3959356,
-        "download_count": 8100,
+        "download_count": 8104,
         "created_at": "2017-02-07T02:02:13Z",
         "updated_at": "2017-02-07T02:02:14Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/chromedriver-v2.21-win32-ia32.zip"
@@ -19949,7 +19949,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 4736452,
-        "download_count": 19028,
+        "download_count": 19034,
         "created_at": "2017-02-07T01:35:11Z",
         "updated_at": "2017-02-07T01:35:13Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/chromedriver-v2.21-win32-x64.zip"
@@ -20333,7 +20333,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 47551431,
-        "download_count": 17965,
+        "download_count": 17967,
         "created_at": "2017-02-07T00:51:45Z",
         "updated_at": "2017-02-07T00:51:48Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/electron-v1.6.0-linux-x64.zip"
@@ -21037,7 +21037,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 5272630,
-        "download_count": 3185,
+        "download_count": 3188,
         "created_at": "2017-02-07T00:51:50Z",
         "updated_at": "2017-02-07T00:51:51Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/mksnapshot-v1.6.0-linux-x64.zip"
@@ -21146,7 +21146,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -21165,7 +21165,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 4434,
-        "download_count": 130209,
+        "download_count": 130229,
         "created_at": "2017-02-07T02:23:18Z",
         "updated_at": "2017-02-07T02:23:18Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.6.0/SHASUMS256.txt"
@@ -22144,7 +22144,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -22841,7 +22841,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 45292781,
-        "download_count": 65431,
+        "download_count": 65434,
         "created_at": "2017-01-24T16:37:05Z",
         "updated_at": "2017-01-24T16:37:07Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.5.0/electron-v1.5.0-linux-x64.zip"
@@ -23654,7 +23654,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -23673,7 +23673,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 4434,
-        "download_count": 75023,
+        "download_count": 75026,
         "created_at": "2017-01-24T18:20:19Z",
         "updated_at": "2017-01-24T18:20:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.5.0/SHASUMS256.txt"
@@ -23839,7 +23839,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42120203,
-        "download_count": 60366,
+        "download_count": 60371,
         "created_at": "2017-01-19T17:56:28Z",
         "updated_at": "2017-01-19T17:56:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/electron-v1.4.15-darwin-x64.zip"
@@ -24095,7 +24095,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43355286,
-        "download_count": 227786,
+        "download_count": 227788,
         "created_at": "2017-01-19T17:09:23Z",
         "updated_at": "2017-01-19T17:09:24Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/electron-v1.4.15-linux-x64.zip"
@@ -24383,7 +24383,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54368789,
-        "download_count": 62914,
+        "download_count": 62919,
         "created_at": "2017-01-19T17:19:23Z",
         "updated_at": "2017-01-19T17:19:30Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/electron-v1.4.15-win32-x64.zip"
@@ -24652,7 +24652,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -24671,7 +24671,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2878,
-        "download_count": 300436,
+        "download_count": 300440,
         "created_at": "2017-01-19T18:10:25Z",
         "updated_at": "2017-01-19T18:10:26Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.15/SHASUMS256.txt"
@@ -24837,7 +24837,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42116998,
-        "download_count": 74512,
+        "download_count": 74513,
         "created_at": "2017-01-10T20:30:17Z",
         "updated_at": "2017-01-10T20:30:19Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.14/electron-v1.4.14-darwin-x64.zip"
@@ -25093,7 +25093,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 43352994,
-        "download_count": 42072,
+        "download_count": 42074,
         "created_at": "2017-01-10T19:04:59Z",
         "updated_at": "2017-01-10T19:05:01Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.14/electron-v1.4.14-linux-x64.zip"
@@ -25381,7 +25381,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54342228,
-        "download_count": 15656,
+        "download_count": 15657,
         "created_at": "2017-01-10T20:27:49Z",
         "updated_at": "2017-01-10T20:27:58Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.14/electron-v1.4.14-win32-x64.zip"
@@ -25650,7 +25650,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -25669,7 +25669,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2878,
-        "download_count": 65186,
+        "download_count": 65190,
         "created_at": "2017-01-10T20:45:06Z",
         "updated_at": "2017-01-10T20:45:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.14/SHASUMS256.txt"
@@ -25835,7 +25835,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 42118362,
-        "download_count": 61250,
+        "download_count": 61261,
         "created_at": "2016-12-20T19:15:32Z",
         "updated_at": "2016-12-20T19:15:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/electron-v1.4.13-darwin-x64.zip"
@@ -25899,7 +25899,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 37762216,
-        "download_count": 5547,
+        "download_count": 5548,
         "created_at": "2016-12-20T17:27:05Z",
         "updated_at": "2016-12-20T17:27:06Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/electron-v1.4.13-linux-arm.zip"
@@ -26200,7 +26200,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -26232,7 +26232,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -26264,7 +26264,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -26283,7 +26283,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 44030471,
-        "download_count": 25987,
+        "download_count": 25991,
         "created_at": "2016-12-20T20:29:26Z",
         "updated_at": "2016-12-20T20:39:36Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/electron-v1.4.13-win32-ia32.zip"
@@ -26379,7 +26379,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 54339658,
-        "download_count": 72534,
+        "download_count": 72545,
         "created_at": "2016-12-20T18:37:05Z",
         "updated_at": "2016-12-20T18:37:12Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/electron-v1.4.13-win32-x64.zip"
@@ -26584,7 +26584,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -26648,7 +26648,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -26667,7 +26667,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 2877,
-        "download_count": 249294,
+        "download_count": 249311,
         "created_at": "2016-12-20T21:17:14Z",
         "updated_at": "2016-12-20T21:17:15Z",
         "browser_download_url": "https://github.com/electron/electron/releases/download/v1.4.13/SHASUMS256.txt"
@@ -27646,7 +27646,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -27748,7 +27748,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -28388,7 +28388,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -28644,7 +28644,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -29610,7 +29610,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -30608,7 +30608,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
@@ -31574,7 +31574,7 @@
         "uploader": {
           "login": "kevinsawicki",
           "id": 671378,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/671378?v=3",
+          "avatar_url": "https://avatars7.githubusercontent.com/u/671378?v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/kevinsawicki",
           "html_url": "https://github.com/kevinsawicki",
