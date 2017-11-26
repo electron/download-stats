@@ -36,10 +36,10 @@ Month | Daily Downloads
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 5112
-electron-v1.8.2-beta.2-linux-x64.zip | 3459
-electron-v1.8.2-beta.2-win32-x64.zip | 2150
-electron-v1.8.2-beta.2-darwin-x64.zip | 1119
+SHASUMS256.txt | 5113
+electron-v1.8.2-beta.2-linux-x64.zip | 3460
+electron-v1.8.2-beta.2-win32-x64.zip | 2151
+electron-v1.8.2-beta.2-darwin-x64.zip | 1120
 electron-v1.8.2-beta.2-win32-ia32.zip | 644
 electron-v1.8.2-beta.2-win32-ia32-symbols.zip | 237
 electron-v1.8.2-beta.2-mas-x64.zip | 237
@@ -48,8 +48,8 @@ electron-api.json | 221
 electron-v1.8.2-beta.2-win32-x64-symbols.zip | 206
 electron-v1.8.2-beta.2-win32-ia32-pdb.zip | 201
 electron-v1.8.2-beta.2-darwin-x64-dsym.zip | 200
-ffmpeg-v1.8.2-beta.2-win32-x64.zip | 169
-electron-v1.8.2-beta.2-linux-arm64.zip | 166
+ffmpeg-v1.8.2-beta.2-win32-x64.zip | 170
+electron-v1.8.2-beta.2-linux-arm64.zip | 167
 electron-v1.8.2-beta.2-linux-ia32.zip | 148
 electron-v1.8.2-beta.2-linux-arm.zip | 146
 electron-v1.8.2-beta.2-mas-x64-dsym.zip | 139
@@ -60,7 +60,7 @@ electron-v1.8.2-beta.2-linux-ia32-symbols.zip | 126
 electron.d.ts | 125
 electron-v1.8.2-beta.2-linux-armv7l.zip | 124
 electron-v1.8.2-beta.2-mas-x64-symbols.zip | 121
-electron-v1.8.2-beta.2-linux-arm64-symbols.zip | 119
+electron-v1.8.2-beta.2-linux-arm64-symbols.zip | 120
 ffmpeg-v1.8.2-beta.2-win32-ia32.zip | 107
 ffmpeg-v1.8.2-beta.2-darwin-x64.zip | 106
 electron-v1.8.2-beta.2-linux-armv7l-symbols.zip | 106
@@ -114,12 +114,12 @@ electron-v1.8.2-beta.1-linux-ia32-symbols.zip | 155
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 17939
-electron-v1.6.15-linux-x64.zip | 13311
-electron-v1.6.15-win32-x64.zip | 7928
-electron-api.json | 6590
+SHASUMS256.txt | 17940
+electron-v1.6.15-linux-x64.zip | 13312
+electron-v1.6.15-win32-x64.zip | 7930
+electron-api.json | 6596
 electron-v1.6.15-darwin-x64.zip | 5200
-electron-v1.6.15-win32-ia32.zip | 2596
+electron-v1.6.15-win32-ia32.zip | 2598
 electron-v1.6.15-linux-ia32.zip | 581
 electron-v1.6.15-mas-x64.zip | 362
 electron-v1.6.15-linux-armv7l.zip | 350
@@ -150,13 +150,13 @@ ffmpeg-v1.6.15-linux-arm.zip | 185
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 360778
-electron-v1.7.9-linux-x64.zip | 235357
-electron-v1.7.9-win32-x64.zip | 107114
-electron-v1.7.9-darwin-x64.zip | 81780
-electron-v1.7.9-win32-ia32.zip | 24767
+SHASUMS256.txt | 360850
+electron-v1.7.9-linux-x64.zip | 235384
+electron-v1.7.9-win32-x64.zip | 107150
+electron-v1.7.9-darwin-x64.zip | 81804
+electron-v1.7.9-win32-ia32.zip | 24787
 electron-v1.7.9-linux-arm.zip | 8085
-electron-v1.7.9-linux-ia32.zip | 6384
+electron-v1.7.9-linux-ia32.zip | 6385
 ffmpeg-v1.7.9-linux-x64.zip | 3825
 ffmpeg-v1.7.9-darwin-x64.zip | 3108
 ffmpeg-v1.7.9-win32-x64.zip | 2474
@@ -186,16 +186,16 @@ electron-v1.7.9-linux-armv7l-symbols.zip | 177
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 74560
-electron-v1.8.1-linux-x64.zip | 42019
-electron-v1.8.1-darwin-x64.zip | 22456
-electron-v1.8.1-win32-x64.zip | 17627
-electron-v1.8.1-win32-ia32.zip | 5355
-electron-v1.8.1-mas-x64.zip | 975
-electron-v1.8.1-linux-ia32.zip | 910
+SHASUMS256.txt | 74573
+electron-v1.8.1-linux-x64.zip | 42025
+electron-v1.8.1-darwin-x64.zip | 22461
+electron-v1.8.1-win32-x64.zip | 17631
+electron-v1.8.1-win32-ia32.zip | 5357
+electron-v1.8.1-mas-x64.zip | 977
+electron-v1.8.1-linux-ia32.zip | 911
 electron-v1.8.1-linux-arm.zip | 636
-electron-v1.8.1-linux-armv7l.zip | 534
-electron-v1.8.1-linux-arm64.zip | 497
+electron-v1.8.1-linux-armv7l.zip | 535
+electron-v1.8.1-linux-arm64.zip | 498
 electron-api.json | 322
 electron-v1.8.1-win32-x64-pdb.zip | 307
 ffmpeg-v1.8.1-win32-x64.zip | 286
@@ -261,13 +261,13 @@ electron-v1.6.14-linux-arm-symbols.zip | 199
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 142903
-electron-v1.7.8-linux-x64.zip | 99191
-electron-v1.7.8-win32-x64.zip | 40801
-electron-v1.7.8-darwin-x64.zip | 39137
-electron-v1.7.8-win32-ia32.zip | 12608
+SHASUMS256.txt | 142924
+electron-v1.7.8-linux-x64.zip | 99193
+electron-v1.7.8-win32-x64.zip | 40805
+electron-v1.7.8-darwin-x64.zip | 39147
+electron-v1.7.8-win32-ia32.zip | 12613
 electron-v1.7.8-linux-arm.zip | 2946
-electron-v1.7.8-linux-ia32.zip | 2314
+electron-v1.7.8-linux-ia32.zip | 2315
 electron-api.json | 1100
 electron-v1.7.8-mas-x64.zip | 974
 electron-v1.7.8-linux-armv7l.zip | 852
@@ -333,8 +333,8 @@ ffmpeg-v1.6.13-linux-arm.zip | 301
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 20622
-electron-v1.7.7-linux-x64.zip | 15286
+SHASUMS256.txt | 20624
+electron-v1.7.7-linux-x64.zip | 15287
 electron-v1.7.7-darwin-x64.zip | 10044
 electron-v1.7.7-win32-x64.zip | 6806
 ffmpeg-v1.7.7-linux-x64.zip | 5510
@@ -342,7 +342,7 @@ ffmpeg-v1.7.7-darwin-x64.zip | 4312
 ffmpeg-v1.7.7-win32-x64.zip | 2246
 electron-v1.7.7-win32-ia32.zip | 1831
 electron-v1.7.7-mas-x64.zip | 669
-electron-v1.7.7-linux-arm.zip | 487
+electron-v1.7.7-linux-arm.zip | 488
 electron-v1.7.7-linux-ia32.zip | 404
 ffmpeg-v1.7.7-win32-ia32.zip | 393
 ffmpeg-v1.7.7-linux-arm.zip | 389
@@ -369,10 +369,10 @@ electron-v1.7.7-mas-x64-dsym.zip | 298
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 203986
-electron-v1.7.6-linux-x64.zip | 137172
-electron-v1.7.6-win32-x64.zip | 49178
-electron-v1.7.6-darwin-x64.zip | 40772
+SHASUMS256.txt | 204002
+electron-v1.7.6-linux-x64.zip | 137187
+electron-v1.7.6-win32-x64.zip | 49180
+electron-v1.7.6-darwin-x64.zip | 40776
 electron-v1.7.6-win32-ia32.zip | 13886
 electron-v1.7.6-linux-arm.zip | 3548
 electron-v1.7.6-linux-ia32.zip | 3005
@@ -405,10 +405,10 @@ ffmpeg-v1.7.6-linux-armv7l.zip | 317
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 25914
+SHASUMS256.txt | 25915
 electron-v1.6.12-win32-x64.zip | 12489
 electron-v1.6.12-linux-x64.zip | 11459
-electron-v1.6.12-darwin-x64.zip | 8708
+electron-v1.6.12-darwin-x64.zip | 8709
 electron-v1.6.12-win32-ia32.zip | 2449
 electron-v1.6.12-linux-ia32.zip | 990
 electron-v1.6.12-mas-x64.zip | 656
@@ -513,10 +513,10 @@ ffmpeg-v1.7.4-mas-x64.zip | 373
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 41566
+SHASUMS256.txt | 41568
 electron-v1.7.3-linux-x64.zip | 24648
-electron-v1.7.3-darwin-x64.zip | 15529
-electron-v1.7.3-win32-x64.zip | 11799
+electron-v1.7.3-darwin-x64.zip | 15531
+electron-v1.7.3-win32-x64.zip | 11801
 electron-v1.7.3-win32-ia32.zip | 4107
 ffmpeg-v1.7.3-linux-x64.zip | 2731
 ffmpeg-v1.7.3-darwin-x64.zip | 1702
@@ -549,8 +549,8 @@ ffmpeg-v1.7.3-mas-x64.zip | 403
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 29329
-electron-v1.7.2-linux-x64.zip | 16745
+SHASUMS256.txt | 29330
+electron-v1.7.2-linux-x64.zip | 16746
 electron-v1.7.2-darwin-x64.zip | 9973
 electron-v1.7.2-win32-x64.zip | 6808
 electron-v1.7.2-win32-ia32.zip | 2116
@@ -585,9 +585,9 @@ ffmpeg-v1.7.2-linux-armv7l.zip | 421
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 525070
-electron-v1.6.11-linux-x64.zip | 366902
-electron-v1.6.11-win32-x64.zip | 114671
+SHASUMS256.txt | 525075
+electron-v1.6.11-linux-x64.zip | 366906
+electron-v1.6.11-win32-x64.zip | 114674
 electron-v1.6.11-darwin-x64.zip | 98283
 electron-v1.6.11-win32-ia32.zip | 29597
 electron-api.json | 9243
@@ -621,8 +621,8 @@ electron-v1.6.11-linux-arm-symbols.zip | 442
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 35794
-electron-v1.7.1-linux-x64.zip | 23167
+SHASUMS256.txt | 35796
+electron-v1.7.1-linux-x64.zip | 23169
 electron-v1.7.1-darwin-x64.zip | 9103
 electron-v1.7.1-win32-x64.zip | 6289
 electron-v1.7.1-win32-ia32.zip | 3003
@@ -657,8 +657,8 @@ electron-v1.7.1-linux-armv7l-symbols.zip | 398
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 165353
-electron-v1.6.10-linux-x64.zip | 117829
+SHASUMS256.txt | 165361
+electron-v1.6.10-linux-x64.zip | 117837
 electron-v1.6.10-win32-x64.zip | 41906
 electron-v1.6.10-darwin-x64.zip | 30513
 electron-v1.6.10-win32-ia32.zip | 10619
@@ -693,20 +693,20 @@ ffmpeg-v1.6.10-linux-armv7l.zip | 422
 
 File | Downloads
 --- | ---
-SHASUMS256.txt | 235633
-chromedriver-v1.7.0-linux-x64.zip | 124223
-chromedriver-v1.7.0-darwin-x64.zip | 38632
-chromedriver-v1.7.0-win32-x64.zip | 30254
-mksnapshot-v1.7.0-linux-x64.zip | 13660
-chromedriver-v1.7.0-linux-arm.zip | 10394
-mksnapshot-v1.7.0-darwin-x64.zip | 9522
-chromedriver-v1.7.0-win32-ia32.zip | 9470
+SHASUMS256.txt | 235649
+chromedriver-v1.7.0-linux-x64.zip | 124231
+chromedriver-v1.7.0-darwin-x64.zip | 38637
+chromedriver-v1.7.0-win32-x64.zip | 30257
+mksnapshot-v1.7.0-linux-x64.zip | 13661
+chromedriver-v1.7.0-linux-arm.zip | 10395
+mksnapshot-v1.7.0-darwin-x64.zip | 9523
+chromedriver-v1.7.0-win32-ia32.zip | 9472
 electron-v1.7.0-linux-x64.zip | 8459
 mksnapshot-v1.7.0-win32-x64.zip | 5455
 electron-v1.7.0-darwin-x64.zip | 2898
 electron-v1.7.0-win32-x64.zip | 2282
 electron-v1.7.0-win32-ia32.zip | 840
-mksnapshot-v1.7.0-linux-arm.zip | 768
+mksnapshot-v1.7.0-linux-arm.zip | 769
 chromedriver-v1.7.0-linux-ia32.zip | 761
 electron-v1.7.0-linux-ia32.zip | 533
 electron-v1.7.0-linux-arm.zip | 518
