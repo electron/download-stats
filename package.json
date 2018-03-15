@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Historical download data for all the flavors of Electron",
   "main": "index.js",
-  "repository": "https://github.com/zeke/electron-download-stats",
+  "repository": "https://github.com/electron/download-stats",
   "author": "zeke <zeke@sikelianos.com>",
   "license": "MIT",
   "devDependencies": {
