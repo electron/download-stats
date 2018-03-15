@@ -5,12 +5,12 @@ set -o errexit    # always exit on error
 set -o pipefail   # don't ignore exit codes when piping output
 set -o nounset    # fail on unset variables
 
-git clone https://github.com/zeke/electron-download-stats
-cd electron-download-stats
+git clone https://github.com/electron/download-stats module
+cd module
 npm run build
 [[ `git status --porcelain` ]] || exit
 git add .
-git config user.email "zeke@sikelianos.com"
-git config user.name "Zeke Sikelianos"
+git config user.email "electron@github.com"
+git config user.name "Electron Bot"
 git commit -m "update stats"
 git push origin master --follow-tags
