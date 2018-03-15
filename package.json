@@ -1,5 +1,6 @@
 {
   "name": "electron-download-stats",
+  "private": true,
   "version": "1.0.0",
   "description": "Historical download data for all the flavors of Electron",
   "main": "index.js",
