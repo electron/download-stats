@@ -1,9 +1,10 @@
 {
   "name": "electron-download-stats",
+  "private": true,
   "version": "1.0.0",
   "description": "Historical download data for all the flavors of Electron",
   "main": "index.js",
-  "repository": "https://github.com/zeke/electron-download-stats",
+  "repository": "https://github.com/electron/download-stats",
   "author": "zeke <zeke@sikelianos.com>",
   "license": "MIT",
   "devDependencies": {
@@ -18,6 +19,6 @@
     "fetch:electron-prebuilt-compile": "curl https://api.npmjs.org/downloads/range/2010-01-01:2020-01-01/electron-prebuilt-compile > data/electron-prebuilt-compile.json",
     "fetch:releases": "curl https://api.github.com/repos/electron/electron/releases > releases.json",
     "build": "npm run fetch && node index.js > readme.md && node releases.js >> readme.md",
-    "release": "scripts/release"
+    "release": "scripts/release.sh"
   }
 }
