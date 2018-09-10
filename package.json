@@ -9,6 +9,7 @@
   "license": "MIT",
   "devDependencies": {
     "lodash": "^4.17.4",
+    "node-fetch": "^2.2.0",
     "npm-run-all": "^4.0.1",
     "require-dir": "^0.3.1"
   },
@@ -17,7 +18,7 @@
     "fetch:electron": "curl https://api.npmjs.org/downloads/range/2016-07-26:2020-01-01/electron > data/electron.json",
     "fetch:electron-prebuilt": "curl https://api.npmjs.org/downloads/range/2010-01-01:2020-01-01/electron-prebuilt > data/electron-prebuilt.json",
     "fetch:electron-prebuilt-compile": "curl https://api.npmjs.org/downloads/range/2010-01-01:2020-01-01/electron-prebuilt-compile > data/electron-prebuilt-compile.json",
-    "fetch:releases": "curl https://api.github.com/repos/electron/electron/releases > releases.json",
+    "fetch:releases": "node fetch-releases.js > releases.json",
     "build": "npm run fetch && node index.js > readme.md && node releases.js >> readme.md",
     "release": "script/release.sh"
   }

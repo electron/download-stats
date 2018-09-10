@@ -1,4 +1,4 @@
-const releases = require('./releases.json')
+const releases = require('./releases.json').slice(0, 30)
 
 console.log('\n\n## Asset Downloads\n')
 console.log('> Raw download counts for every released GitHub asset.\n')
