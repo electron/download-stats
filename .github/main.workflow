@@ -6,5 +6,5 @@ workflow "Update Download Stats" {
 action "Check latest statistics" {
   uses = "./"
   runs = "npm run release"
-  secrets = ["GITHUB_TOKEN"]
+  secrets = ["GITHUB_TOKEN", "SNITCH_URL"]
 }

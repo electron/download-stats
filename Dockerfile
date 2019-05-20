@@ -14,3 +14,5 @@ RUN npm ci
 
 # Copy the rest of the repo's code
 COPY . .
+
+curl $SNITCH_URL
