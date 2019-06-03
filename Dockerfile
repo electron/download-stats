@@ -6,13 +6,8 @@ LABEL "com.github.actions.description"="Checks for and reports download stats fo
 LABEL "com.github.actions.icon"="package"
 LABEL "com.github.actions.color"="gray-dark"
 
-# Copy the package.json and package-lock.json
-COPY package*.json ./
+RUN apk update && apk upgrade && \
+    apk add --no-cache bash git openssh curl
 
-# Install dependencies
-RUN npm ci
-
-# Copy the rest of the repo's code
-COPY . .
-
-curl $SNITCH_URL
+ADD entrypoint.sh /entrypoint.sh
+ENTRYPOINT ["/entrypoint.sh"]
