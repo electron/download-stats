@@ -9,5 +9,5 @@ LABEL "com.github.actions.color"="gray-dark"
 RUN apk update && apk upgrade && \
     apk add --no-cache bash git openssh curl
 
-ADD entrypoint.sh /entrypoint.sh
-ENTRYPOINT ["/entrypoint.sh"]
+ADD script/release.sh /script/release.sh
+ENTRYPOINT ["/script/release.sh"]
