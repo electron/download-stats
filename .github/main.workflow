@@ -5,5 +5,6 @@ workflow "Update Download Stats" {
 
 action "Check latest statistics" {
   uses = "./"
-  secrets = ["GITHUB_TOKEN"]
+  # custom token needed to enable committing as electron-bot
+  secrets = ["GH_TOKEN"]
 }
