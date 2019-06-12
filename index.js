@@ -46,7 +46,7 @@ years.forEach(year => {
 console.log('# Electron Download Stats\n')
 
 console.log('## npm Downloads\n')
-console.log('> Average combined daily downloads by month for `electron`, `electron-prebuilt`, and `electron-prebuilt-compile`.\n')
+console.log('> Average combined daily downloads by month for `electron`, `electron-prebuilt`, `electron-nightly`, and `electron-prebuilt-compile`.\n')
 console.log('Month | Daily Downloads')
 console.log('--- | ---')
 results.forEach(result => {

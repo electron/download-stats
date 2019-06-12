@@ -16,6 +16,7 @@
   "scripts": {
     "fetch": "npm-run-all -p fetch:*",
     "fetch:electron": "curl https://api.npmjs.org/downloads/range/2016-07-26:2020-01-01/electron > data/electron.json",
+    "fetch:electron-nightly": "curl https://api.npmjs.org/downloads/range/2018-12-02:2020-01-01/electron-nightly > data/electron-nightly.json",
     "fetch:electron-prebuilt": "curl https://api.npmjs.org/downloads/range/2010-01-01:2020-01-01/electron-prebuilt > data/electron-prebuilt.json",
     "fetch:electron-prebuilt-compile": "curl https://api.npmjs.org/downloads/range/2010-01-01:2020-01-01/electron-prebuilt-compile > data/electron-prebuilt-compile.json",
     "fetch:releases": "node fetch-releases.js > releases.json",
