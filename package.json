@@ -8,7 +8,7 @@
   "author": "zeke <zeke@sikelianos.com>",
   "license": "MIT",
   "devDependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "node-fetch": "^2.2.0",
     "npm-run-all": "^4.0.1",
     "require-dir": "^0.3.1"
