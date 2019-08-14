@@ -1,0 +1,15 @@
+name: Update Download Stats
+
+on: [schedule(30 20 * * *)]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: ./
+    - name: Check latest statistics
+      env:
+        # custom token needed to enable committing as electron-bot
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
