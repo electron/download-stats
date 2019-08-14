@@ -1,0 +1,16 @@
+name: Update Download Stats
+
+on:
+  schedules:
+  - cron: 30 20 * * *
+
+jobs:
+  checkLatestStatistics:
+    name: Check latest statistics
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Check latest statistics
+      uses: ./
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
