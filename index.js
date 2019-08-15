@@ -2,14 +2,14 @@ const requireDir = require('require-dir')
 const lodash = require('lodash')
 const data = requireDir('./data')
 const today = new Date().toISOString()
-const years = [2015,2016,2017,2018,2019]
-const months = ['01','02','03','04','05','06','07','08','09','10','11','12']
+const years = [2015, 2016, 2017, 2018, 2019]
+const months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
 const results = []
 let combined = {}
 
 Object.keys(data).forEach(key => {
   data[key].downloads.forEach(metric => {
-    const {day, downloads} = metric
+    const { day, downloads } = metric
     if (!combined[day]) combined[day] = 0
     combined[day] += downloads
   })
@@ -19,7 +19,6 @@ combined = lodash.chain(combined)
   .toPairs()
   .sortBy(0)
   .value()
-
 
 years.forEach(year => {
   months.forEach(month => {
@@ -35,7 +34,7 @@ years.forEach(year => {
       ? Number(today.substr(8, 2))
       : 30
 
-    let average = Math.round(downloadsInMonth/daysInMonth)
+    const average = Math.round(downloadsInMonth / daysInMonth)
 
     if (average > 0) {
       results.push([yearAndMonth, average])
