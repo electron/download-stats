@@ -1,8 +1,8 @@
 name: Update Download Stats
 
 on:
-  schedules:
-  - cron: 30 20 * * *
+  schedule:
+  - cron: '30 20 * * *'
 
 jobs:
   checkLatestStatistics:
