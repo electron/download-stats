@@ -23,7 +23,7 @@
   },
   "scripts": {
     "lint": "prettier --check \"*.js\" && yamllint ./.github/workflows/schedule.yml",
-    "prettier:write": "prettier --write \"*.js\"",
+    "format": "prettier --write \"*.js\"",
     "fetch": "npm-run-all -p fetch:*",
     "fetch:electron": "curl https://api.npmjs.org/downloads/range/2016-07-26:2022-01-01/electron > data/electron.json",
     "fetch:electron-nightly": "curl https://api.npmjs.org/downloads/range/2018-12-02:2022-01-01/electron-nightly > data/electron-nightly.json",
