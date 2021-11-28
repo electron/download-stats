@@ -1,10 +1,17 @@
 const requireDir = require('require-dir');
 const lodash = require('lodash');
 const data = requireDir('./data');
-const today = new Date().toISOString();
-const years = [2015, 2016, 2017, 2018, 2019, 2020, 2021];
-const months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'];
-const results = [];
+
+// Generates an array of years ranging from 2015 - present year.
+const generateYearRange = () => {
+  const currentYear = new Date().getFullYear();
+  const years = [];
+  for (let i = 2015; i <= currentYear; i++) {
+    years.push(i);
+  }
+  return years;
+};
+
 let combined = {};
 
 Object.keys(data).forEach((key) => {
@@ -17,7 +24,11 @@ Object.keys(data).forEach((key) => {
 
 combined = lodash.chain(combined).toPairs().sortBy(0).value();
 
-years.forEach((year) => {
+const months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'];
+const today = new Date().toISOString();
+const results = [];
+
+generateYearRange().forEach((year) => {
   months.forEach((month) => {
     const yearAndMonth = `${year}-${month}`;
     const downloadsInMonth = lodash
