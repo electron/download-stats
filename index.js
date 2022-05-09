@@ -39,7 +39,7 @@ generateYearRange().forEach((year) => {
       .value();
 
     // Account for this month, which is still in progress
-    const daysInMonth = yearAndMonth === today.substr(0, 7) ? Number(today.substr(8, 2)) : 30;
+    const daysInMonth = yearAndMonth === today.substring(0, 7) ? Number(today.substring(8, 2)) : 30;
 
     const average = Math.round(downloadsInMonth / daysInMonth);
 
