@@ -25,12 +25,15 @@
     "lint": "prettier --check \"*.js\" && yamllint ./.github/workflows/schedule.yml",
     "format": "prettier --write \"*.js\"",
     "fetch": "npm-run-all -p fetch:*",
-    "fetch:electron": "curl https://api.npmjs.org/downloads/range/2016-07-26:2022-01-01/electron > data/electron.json",
-    "fetch:electron-nightly": "curl https://api.npmjs.org/downloads/range/2018-12-02:2022-01-01/electron-nightly > data/electron-nightly.json",
-    "fetch:electron-prebuilt": "curl https://api.npmjs.org/downloads/range/2010-01-01:2022-01-01/electron-prebuilt > data/electron-prebuilt.json",
-    "fetch:electron-prebuilt-compile": "curl https://api.npmjs.org/downloads/range/2010-01-01:2022-01-01/electron-prebuilt-compile > data/electron-prebuilt-compile.json",
+    "fetch:electron": "curl https://api.npmjs.org/downloads/range/2016-07-26:2025-01-01/electron > data/electron.json",
+    "fetch:electron-nightly": "curl https://api.npmjs.org/downloads/range/2018-12-02:2025-01-01/electron-nightly > data/electron-nightly.json",
+    "fetch:electron-prebuilt": "curl https://api.npmjs.org/downloads/range/2010-01-01:2025-01-01/electron-prebuilt > data/electron-prebuilt.json",
+    "fetch:electron-prebuilt-compile": "curl https://api.npmjs.org/downloads/range/2010-01-01:2025-01-01/electron-prebuilt-compile > data/electron-prebuilt-compile.json",
     "fetch:releases": "node fetch-releases.js > releases.json",
     "build": "npm run fetch && node index.js > readme.md && node releases.js >> readme.md",
     "release": "script/release.sh"
+  },
+  "dependencies": {
+    "@octokit/rest": "^18.12.0"
   }
 }
