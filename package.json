@@ -13,8 +13,7 @@
     "node-fetch": "^2.6.1",
     "npm-run-all": "^4.0.1",
     "prettier": "^2.0.2",
-    "require-dir": "^0.3.1",
-    "yaml-lint": "^1.2.4"
+    "require-dir": "^0.3.1"
   },
   "husky": {
     "hooks": {
@@ -22,7 +21,7 @@
     }
   },
   "scripts": {
-    "lint": "prettier --check \"*.js\" && yamllint ./.github/workflows/schedule.yml",
+    "lint": "prettier --check \"*.js\"",
     "format": "prettier --write \"*.js\"",
     "fetch": "npm-run-all -p fetch:*",
     "fetch:electron": "curl https://api.npmjs.org/downloads/range/2016-07-26:2025-01-01/electron > data/electron.json",
