@@ -22,4 +22,4 @@ git config user.email electron@github.com
 git config user.name electron-bot
 git add .
 git commit -m "chore: update download stats"
-git push origin master --follow-tags
+git push origin main --follow-tags
