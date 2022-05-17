@@ -5,7 +5,7 @@ set -o errexit    # always exit on error
 set -o pipefail   # don't ignore exit codes when piping output
 set -o nounset    # fail on unset variables
 
-git clone "https://electron-bot:$GH_TOKEN@github.com/electron/download-stats" module
+git clone "https://electron-bot:$GITHUB_TOKEN@github.com/electron/download-stats" module
 
 cd module
 npm ci
