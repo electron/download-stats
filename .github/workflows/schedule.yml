@@ -9,6 +9,8 @@ jobs:
     name: Check latest statistics
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v3
     - name: Check latest statistics
       uses: ./
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
