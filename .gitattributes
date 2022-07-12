@@ -1,0 +1,2 @@
+data/*.json filter=lfs diff=lfs merge=lfs -text
+releases.json filter=lfs diff=lfs merge=lfs -text
