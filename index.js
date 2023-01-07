@@ -50,7 +50,9 @@ generateYearRange().forEach((year) => {
 });
 
 console.log('# Electron Download Stats\n');
-
+console.log(
+  '[![Update Download Stats](https://github.com/electron/download-stats/actions/workflows/schedule.yml/badge.svg)](https://github.com/electron/download-stats/actions/workflows/schedule.yml)\n',
+);
 console.log('## npm Downloads\n');
 console.log(
   '> Average combined daily downloads by month for `electron`, `electron-prebuilt`, `electron-nightly`, and `electron-prebuilt-compile`.\n',
