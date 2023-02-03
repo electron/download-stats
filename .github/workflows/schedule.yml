@@ -1,16 +1,37 @@
-name: Update Download Stats
+name: Update Download Statistics
 
 on:
+  workflow_dispatch:
   schedule:
   - cron: '30 20 * * *'
 
 jobs:
-  checkLatestStatistics:
-    name: Check latest statistics
+  main:
+    name: Check Latest Download Statistics
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c  # tag: v3.3.0
-    - name: Check latest statistics
-      uses: ./
+    - name: Setup Node.js
+      uses: actions/setup-node@64ed1c7eab4cce3362f8c340dee64e5eaeef8f7c  # tag: v3.6.0
+      with:
+        node-version: lts/*
+    - name: Install Dependencies
+      run: npm ci
+    - name: Build Release Data
+      run: npm run build
       env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Push Updated Data
+      run: |
+        if [ "$(git status --porcelain)" = "" ]; then
+          echo "No new content found: exiting!"
+          exit
+        fi
+
+        git config user.email electron@github.com
+        git config user.name electron-bot
+        git add .
+        git commit -m "chore: update download stats"
+        git push origin main --follow-tags
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
