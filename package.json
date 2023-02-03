@@ -23,8 +23,7 @@
     "fetch:electron-prebuilt": "curl https://api.npmjs.org/downloads/range/2010-01-01:2025-01-01/electron-prebuilt > data/electron-prebuilt.json",
     "fetch:electron-prebuilt-compile": "curl https://api.npmjs.org/downloads/range/2010-01-01:2025-01-01/electron-prebuilt-compile > data/electron-prebuilt-compile.json",
     "fetch:releases": "node fetch-releases.js > releases.json",
-    "build": "npm run fetch && node index.js > readme.md && node releases.js >> readme.md",
-    "release": "script/release.sh"
+    "build": "npm run fetch && node index.js > readme.md && node releases.js >> readme.md"
   },
   "dependencies": {
     "@octokit/rest": "^18.12.0"
