@@ -5,12 +5,22 @@ on:
   schedule:
   - cron: '30 20 * * *'
 
+permissions: {}
+
 jobs:
   main:
     name: Check Latest Download Statistics
     runs-on: ubuntu-latest
     steps:
+    - name: Generate GitHub App token
+      uses: electron/github-app-auth-action@72247c8be59cd63accc5f99599bf400a360a5d8a # v1.1.0
+      id: generate-token
+      with:
+        creds: ${{ secrets.GH_APP_CREDS }}
+        export-git-user: true
     - uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c  # tag: v3.3.0
+      with:
+        token: ${{ steps.generate-token.outputs.token }}
     - name: Setup Node.js
       uses: actions/setup-node@64ed1c7eab4cce3362f8c340dee64e5eaeef8f7c  # tag: v3.6.0
       with:
@@ -20,7 +30,7 @@ jobs:
     - name: Build Release Data
       run: npm run build
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
     - name: Push Updated Data
       run: |
         if [ "$(git status --porcelain)" = "" ]; then
@@ -28,10 +38,6 @@ jobs:
           exit
         fi
 
-        git config user.email electron@github.com
-        git config user.name electron-bot
         git add .
         git commit -m "chore: update download stats"
         git push origin main --follow-tags
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
