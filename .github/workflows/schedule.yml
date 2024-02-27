@@ -17,7 +17,6 @@ jobs:
       id: generate-token
       with:
         creds: ${{ secrets.GH_APP_CREDS }}
-        export-git-user: true
     - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11  # tag: v4.1.1
       with:
         token: ${{ steps.generate-token.outputs.token }}
@@ -28,16 +27,14 @@ jobs:
     - name: Install Dependencies
       run: npm ci
     - name: Build Release Data
-      run: npm run build
+      run: |
+        npm run build
+        git add .
       env:
         GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
     - name: Push Updated Data
-      run: |
-        if [ "$(git status --porcelain)" = "" ]; then
-          echo "No new content found: exiting!"
-          exit
-        fi
-
-        git add .
-        git commit -m "chore: update download stats"
-        git push origin main --follow-tags
+      uses: dsanders11/github-app-commit-action@1dd0a2d22c564461d3f598b6858856e8842d7a16 # v1.1.0
+      with:
+        fail-on-no-changes: false
+        message: 'chore: update download stats'
+        token: ${{ steps.generate-token.outputs.token }}
