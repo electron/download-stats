@@ -8,10 +8,8 @@
   "author": "zeke <zeke@sikelianos.com>",
   "license": "MIT",
   "devDependencies": {
-    "lodash": "^4.17.21",
     "npm-run-all2": "^7.0.1",
-    "prettier": "^3.1.0",
-    "require-dir": "^0.3.1"
+    "prettier": "^3.1.0"
   },
   "scripts": {
     "lint": "prettier --check \"*.js\"",
@@ -25,6 +23,9 @@
     "build": "npm run fetch && node index.js > readme.md && node releases.js >> readme.md"
   },
   "dependencies": {
-    "@octokit/rest": "^20.0.2"
+    "@octokit/rest": "^20.0.2",
+    "lodash": "^4.17.21",
+    "require-dir": "^0.3.1",
+    "semver": "^7.6.3"
   }
 }
