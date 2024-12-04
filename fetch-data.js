@@ -3,12 +3,7 @@ const path = require('path');
 const { Octokit } = require('@octokit/rest');
 const { GITHUB_TOKEN } = process.env;
 
-const packages = [
-  'electron',
-  'electron-prebuilt',
-  'electron-nightly',
-  'electron-prebuilt-compile'
-];
+const packages = ['electron', 'electron-prebuilt', 'electron-nightly', 'electron-prebuilt-compile'];
 
 async function fetchReleases() {
   const outputPath = path.join(__dirname, 'releases.json');
@@ -60,5 +55,5 @@ async function fetchStatistics(pkgs = packages) {
 
 module.exports = {
   fetchStatistics,
-  fetchReleases
-}
+  fetchReleases,
+};

@@ -6,9 +6,12 @@ const months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11'
 // Generates an array of years ranging from 2015 - present year.
 const generateYearRange = () => {
   const currentYear = new Date().getFullYear();
-  return Array.from({
-    length: currentYear - 2015 + 1
-  }, (_, i) => 2015 + i);
+  return Array.from(
+    {
+      length: currentYear - 2015 + 1,
+    },
+    (_, i) => 2015 + i,
+  );
 };
 
 function calculateStatistics() {
@@ -22,7 +25,7 @@ function calculateStatistics() {
   }, {});
 
   combined = Object.entries(combined).sort((a, b) => {
-    a[0].localeCompare(b[0])
+    a[0].localeCompare(b[0]);
   });
 
   const today = new Date().toISOString();
@@ -37,7 +40,8 @@ function calculateStatistics() {
         .reduce((sum, value) => sum + value, 0);
 
       // Account for this month, which is still in progress
-      const daysInMonth = yearAndMonth === today.substring(0, 7) ? Number(today.substring(8, 2)) : 30;
+      const daysInMonth =
+        yearAndMonth === today.substring(0, 7) ? Number(today.substring(8, 2)) : 30;
       const average = Math.round(downloadsInMonth / daysInMonth);
 
       if (average > 0) {
