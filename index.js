@@ -4,11 +4,9 @@ const data = requireDir('./data');
 // Generates an array of years ranging from 2015 - present year.
 const generateYearRange = () => {
   const currentYear = new Date().getFullYear();
-  const years = [];
-  for (let i = 2015; i <= currentYear; i++) {
-    years.push(i);
-  }
-  return years;
+  return Array.from({
+    length: currentYear - 2015 + 1
+  }, (_, i) => 2015 + i);
 };
 
 let combined = {};
