@@ -1,5 +1,4 @@
 const requireDir = require('require-dir');
-const lodash = require('lodash');
 const data = requireDir('./data');
 
 // Generates an array of years ranging from 2015 - present year.
@@ -22,7 +21,7 @@ Object.keys(data).forEach((key) => {
   });
 });
 
-combined = lodash.chain(combined).toPairs().sortBy(0).value();
+combined = Object.entries(combined).sort((a, b) => a[0].localeCompare(b[0]));
 
 const months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'];
 const today = new Date().toISOString();
@@ -31,12 +30,10 @@ const results = [];
 generateYearRange().forEach((year) => {
   months.forEach((month) => {
     const yearAndMonth = `${year}-${month}`;
-    const downloadsInMonth = lodash
-      .chain(combined)
+    const downloadsInMonth = combined
       .filter((day) => day[0].startsWith(yearAndMonth))
       .map((day) => day[1])
-      .sum()
-      .value();
+      .reduce((sum, value) => sum + value, 0);
 
     // Account for this month, which is still in progress
     const daysInMonth = yearAndMonth === today.substring(0, 7) ? Number(today.substring(8, 2)) : 30;

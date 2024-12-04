@@ -24,7 +24,6 @@
   },
   "dependencies": {
     "@octokit/rest": "^20.0.2",
-    "lodash": "^4.17.21",
     "require-dir": "^0.3.1",
     "semver": "^7.6.3"
   }
