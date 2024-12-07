@@ -45,7 +45,6 @@ async function fetchStatistics(pkgs = packages) {
       const rawData = await fetch(url);
       const data = await rawData.json();
       fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), 'utf8');
-      console.log(`${package} download statistics written to ${outputPath}`);
     } catch (e) {
       console.error('Error fetching data:', error);
       process.exit(1);
