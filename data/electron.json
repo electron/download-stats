@@ -1,12 +1,8 @@
 {
-  "start": "2023-08-08",
-  "end": "2025-02-08",
+  "start": "2023-08-09",
+  "end": "2025-02-09",
   "package": "electron",
   "downloads": [
-    {
-      "downloads": 121693,
-      "day": "2023-08-08"
-    },
     {
       "downloads": 120568,
       "day": "2023-08-09"
@@ -2172,27 +2168,27 @@
       "day": "2025-01-30"
     },
     {
-      "downloads": 0,
+      "downloads": 129675,
       "day": "2025-01-31"
     },
     {
-      "downloads": 0,
+      "downloads": 48237,
       "day": "2025-02-01"
     },
     {
-      "downloads": 0,
+      "downloads": 45856,
       "day": "2025-02-02"
     },
     {
-      "downloads": 0,
+      "downloads": 154509,
       "day": "2025-02-03"
     },
     {
-      "downloads": 0,
+      "downloads": 166760,
       "day": "2025-02-04"
     },
     {
-      "downloads": 0,
+      "downloads": 168753,
       "day": "2025-02-05"
     },
     {
@@ -2200,12 +2196,16 @@
       "day": "2025-02-06"
     },
     {
-      "downloads": 0,
+      "downloads": 161229,
       "day": "2025-02-07"
     },
     {
       "downloads": 0,
       "day": "2025-02-08"
+    },
+    {
+      "downloads": 0,
+      "day": "2025-02-09"
     }
   ]
 }
