@@ -1,12 +1,8 @@
 {
-  "start": "2023-08-18",
-  "end": "2025-02-18",
+  "start": "2023-08-19",
+  "end": "2025-02-19",
   "package": "electron-prebuilt-compile",
   "downloads": [
-    {
-      "downloads": 54,
-      "day": "2023-08-18"
-    },
     {
       "downloads": 30,
       "day": "2023-08-19"
@@ -2206,6 +2202,10 @@
     {
       "downloads": 0,
       "day": "2025-02-18"
+    },
+    {
+      "downloads": 0,
+      "day": "2025-02-19"
     }
   ]
 }
