@@ -1,12 +1,8 @@
 {
-  "start": "2023-11-16",
-  "end": "2025-05-16",
+  "start": "2023-11-17",
+  "end": "2025-05-17",
   "package": "electron-nightly",
   "downloads": [
-    {
-      "downloads": 93,
-      "day": "2023-11-16"
-    },
     {
       "downloads": 86,
       "day": "2023-11-17"
@@ -2188,12 +2184,16 @@
       "day": "2025-05-14"
     },
     {
-      "downloads": 0,
+      "downloads": 87,
       "day": "2025-05-15"
     },
     {
       "downloads": 0,
       "day": "2025-05-16"
+    },
+    {
+      "downloads": 0,
+      "day": "2025-05-17"
     }
   ]
 }
