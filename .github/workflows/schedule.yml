@@ -10,6 +10,7 @@ permissions: {}
 jobs:
   main:
     name: Check Latest Download Statistics
+    environment: auto-updater
     runs-on: ubuntu-latest
     steps:
     - name: Generate GitHub App token (updater app)
