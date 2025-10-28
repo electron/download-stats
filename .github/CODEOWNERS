@@ -1,1 +1,6 @@
 * @electron/wg-ecosystem
+
+# There is no code owner for these files
+# so that bots can approve automated PRs to it
+/data/
+readme.md
