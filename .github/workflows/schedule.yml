@@ -39,7 +39,7 @@ jobs:
       with:
         fail-on-no-changes: false
         message: 'chore: update download stats'
-        ref: "chore/update-download-stats-${{ hashFiles('/data/*.json') }}"
+        ref: "chore/update-download-stats-${{ hashFiles('data/*.json') }}"
         token: ${{ steps.generate-token.outputs.token }}
     - name: Create pull request
       if: ${{ steps.commit-changes.outputs.sha }}
@@ -50,7 +50,7 @@ jobs:
         gh pr create \
           --title "chore: update download stats" \
           --body "Automated PR to update download stats" \
-          --head "chore/update-download-stats-${{ hashFiles('/data/*.json') }}"
+          --head "chore/update-download-stats-${{ hashFiles('data/*.json') }}"
     - name: Get GitHub App token (approver app)
       if: ${{ steps.commit-changes.outputs.sha }}
       id: secret-service
@@ -62,6 +62,6 @@ jobs:
         GITHUB_TOKEN: ${{ fromJSON(steps.secret-service.outputs.secrets).GITHUB_TOKEN }}
       run: |
         set -eo pipefail
-        gh pr review "chore/update-download-stats-${{ hashFiles('/data/*.json') }}" --approve
-        gh pr checks "chore/update-download-stats-${{ hashFiles('/data/*.json') }}" --watch --fail-fast
-        gh pr merge "chore/update-download-stats-${{ hashFiles('/data/*.json') }}" --squash
+        gh pr review "chore/update-download-stats-${{ hashFiles('data/*.json') }}" --approve
+        gh pr checks "chore/update-download-stats-${{ hashFiles('data/*.json') }}" --watch --fail-fast
+        gh pr merge "chore/update-download-stats-${{ hashFiles('data/*.json') }}" --squash
