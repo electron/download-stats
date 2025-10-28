@@ -12,7 +12,7 @@ jobs:
     name: Check Latest Download Statistics
     runs-on: ubuntu-latest
     steps:
-    - name: Generate GitHub App token
+    - name: Generate GitHub App token (updater app)
       uses: electron/github-app-auth-action@384fd19694fe7b6dcc9a684746c6976ad78228ae # v1.1.1
       id: generate-token
       with:
@@ -33,8 +33,34 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
     - name: Push Updated Data
+      id: commit-changes
       uses: dsanders11/github-app-commit-action@43de6da2f4d927e997c0784c7a0b61bd19ad6aac # v1.5.0
       with:
         fail-on-no-changes: false
         message: 'chore: update download stats'
+        ref: "chore/update-download-stats-${{ hashFiles('/data/*.json') }}"
         token: ${{ steps.generate-token.outputs.token }}
+    - name: Create pull request
+      if: ${{ steps.commit-changes.outputs.sha }}
+      shell: bash
+      env:
+        GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
+      run: |
+        gh pr create \
+          --title "chore: update download stats" \
+          --body "Automated PR to update download stats" \
+          --head "chore/update-download-stats-${{ hashFiles('/data/*.json') }}"
+    - name: Get GitHub App token (approver app)
+      if: ${{ steps.commit-changes.outputs.sha }}
+      id: secret-service
+      uses: electron/secret-service-action@3476425e8b30555aac15b1b7096938e254b0e155 # v1.0.0
+    - name: Approve and merge pull request
+      if: ${{ steps.commit-changes.outputs.sha }}
+      shell: bash
+      env:
+        GITHUB_TOKEN: ${{ fromJSON(steps.secret-service.outputs.secrets).GITHUB_TOKEN }}
+      run: |
+        set -eo pipefail
+        gh pr review "chore/update-download-stats-${{ hashFiles('/data/*.json') }}" --approve
+        gh pr checks "chore/update-download-stats-${{ hashFiles('/data/*.json') }}" --watch --fail-fast
+        gh pr merge "chore/update-download-stats-${{ hashFiles('/data/*.json') }}" --squash
