@@ -3,7 +3,6 @@ const { fetchStatistics, fetchReleases } = require('./fetch-data');
 
 const months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'];
 
-// Generates an array of years ranging from 2015 - present year.
 const generateYearRange = () => {
   const currentYear = new Date().getFullYear();
   return Array.from(
@@ -39,7 +38,6 @@ function calculateStatistics() {
         .map((day) => day[1])
         .reduce((sum, value) => sum + value, 0);
 
-      // Account for this month, which is still in progress
       const daysInMonth =
         yearAndMonth === today.substring(0, 7) ? Number(today.substring(8, 2)) : 30;
       const average = Math.round(downloadsInMonth / daysInMonth);
@@ -50,7 +48,11 @@ function calculateStatistics() {
     });
   });
 
-  return results;
+  return results.slice(-24);
+}
+
+function formatNumber(num) {
+  return num.toLocaleString('en-US');
 }
 
 function writeToReadme(results) {
@@ -62,14 +64,19 @@ function writeToReadme(results) {
   console.log(
     '> Average combined daily downloads by month for `electron`, `electron-prebuilt`, `electron-nightly`, and `electron-prebuilt-compile`.\n',
   );
-  console.log('Month | Daily Downloads');
-  console.log('--- | ---');
-  results.forEach((result) => {
-    console.log(result.join(' | '));
+  console.log('| Month | Daily Downloads |');
+  console.log('| :---: | ---: |');
+  results.forEach(([month, downloads]) => {
+    console.log(`| ${month} | ${formatNumber(downloads)} |`);
   });
 }
 
 async function updateStatistics() {
+  if (!process.env.GITHUB_TOKEN) {
+    console.error('GITHUB_TOKEN is not set - cannot fetch release data');
+    process.exit(1);
+  }
+
   await fetchStatistics();
   await fetchReleases();
 
