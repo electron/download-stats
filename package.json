@@ -13,7 +13,7 @@
   "scripts": {
     "lint": "prettier --check \"*.js\"",
     "format": "prettier --write \"*.js\"",
-    "build": "node index.js > README.md && node releases.js >> readme.md"
+    "build": "node index.js > README.md && node releases.js >> README.md"
   },
   "dependencies": {
     "@octokit/rest": "^21.1.0",
