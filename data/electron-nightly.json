@@ -1,12 +1,8 @@
 {
-  "start": "2024-07-30",
-  "end": "2026-01-30",
+  "start": "2024-07-31",
+  "end": "2026-01-31",
   "package": "electron-nightly",
   "downloads": [
-    {
-      "downloads": 88,
-      "day": "2024-07-30"
-    },
     {
       "downloads": 27,
       "day": "2024-07-31"
@@ -2196,12 +2192,16 @@
       "day": "2026-01-28"
     },
     {
-      "downloads": 0,
+      "downloads": 120,
       "day": "2026-01-29"
     },
     {
       "downloads": 0,
       "day": "2026-01-30"
+    },
+    {
+      "downloads": 0,
+      "day": "2026-01-31"
     }
   ]
 }
