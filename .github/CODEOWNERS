@@ -4,3 +4,4 @@
 # so that bots can approve automated PRs to it
 /data/
 readme.md
+README.md
