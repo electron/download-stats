@@ -33,6 +33,91 @@
 > Download counts for the latest release in each supported version.
 
 
+### v41.0.0-alpha.4
+
+<details><summary>Download Data</summary>
+
+File | Downloads
+--- | ---
+electron-v41.0.0-alpha.4-win32-x64.zip | 29
+electron-v41.0.0-alpha.4-win32-ia32.zip | 20
+electron-v41.0.0-alpha.4-linux-x64.zip | 19
+chromedriver-v41.0.0-alpha.4-darwin-arm64.zip | 16
+electron-v41.0.0-alpha.4-linux-armv7l.zip | 14
+SHASUMS256.txt | 14
+electron-v41.0.0-alpha.4-darwin-x64-symbols.zip | 13
+electron-v41.0.0-alpha.4-linux-arm64-symbols.zip | 13
+electron-v41.0.0-alpha.4-linux-arm64.zip | 13
+electron-v41.0.0-alpha.4-win32-arm64.zip | 13
+chromedriver-v41.0.0-alpha.4-linux-x64.zip | 12
+electron-v41.0.0-alpha.4-darwin-x64.zip | 12
+electron-v41.0.0-alpha.4-linux-armv7l-symbols.zip | 12
+electron-v41.0.0-alpha.4-linux-x64-symbols.zip | 12
+electron-v41.0.0-alpha.4-mas-arm64-symbols.zip | 12
+electron-v41.0.0-alpha.4-mas-arm64.zip | 12
+electron-v41.0.0-alpha.4-mas-x64.zip | 12
+electron-v41.0.0-alpha.4-win32-arm64-symbols.zip | 12
+hunspell_dictionaries.zip | 12
+libcxx_headers.zip | 12
+mksnapshot-v41.0.0-alpha.4-darwin-arm64.zip | 12
+mksnapshot-v41.0.0-alpha.4-mas-x64.zip | 12
+mksnapshot-v41.0.0-alpha.4-win32-arm64-x64.zip | 12
+mksnapshot-v41.0.0-alpha.4-win32-x64.zip | 12
+chromedriver-v41.0.0-alpha.4-linux-arm64.zip | 11
+chromedriver-v41.0.0-alpha.4-mas-arm64.zip | 11
+chromedriver-v41.0.0-alpha.4-win32-ia32.zip | 11
+electron-api.json | 11
+electron-v41.0.0-alpha.4-darwin-arm64.zip | 11
+electron-v41.0.0-alpha.4-mas-x64-symbols.zip | 11
+electron-v41.0.0-alpha.4-win32-ia32-symbols.zip | 11
+electron.d.ts | 11
+ffmpeg-v41.0.0-alpha.4-darwin-arm64.zip | 11
+ffmpeg-v41.0.0-alpha.4-linux-armv7l.zip | 11
+ffmpeg-v41.0.0-alpha.4-win32-x64.zip | 11
+mksnapshot-v41.0.0-alpha.4-darwin-x64.zip | 11
+mksnapshot-v41.0.0-alpha.4-linux-arm64-x64.zip | 11
+mksnapshot-v41.0.0-alpha.4-linux-armv7l-x64.zip | 11
+mksnapshot-v41.0.0-alpha.4-mas-arm64.zip | 11
+chromedriver-v41.0.0-alpha.4-darwin-x64.zip | 10
+chromedriver-v41.0.0-alpha.4-mas-x64.zip | 10
+chromedriver-v41.0.0-alpha.4-win32-arm64.zip | 10
+chromedriver-v41.0.0-alpha.4-win32-x64.zip | 10
+electron-v41.0.0-alpha.4-darwin-arm64-symbols.zip | 10
+electron-v41.0.0-alpha.4-win32-x64-toolchain-profile.zip | 10
+ffmpeg-v41.0.0-alpha.4-darwin-x64.zip | 10
+ffmpeg-v41.0.0-alpha.4-linux-arm64.zip | 10
+ffmpeg-v41.0.0-alpha.4-mas-arm64.zip | 10
+ffmpeg-v41.0.0-alpha.4-win32-arm64.zip | 10
+ffmpeg-v41.0.0-alpha.4-win32-ia32.zip | 10
+libcxx-objects-v41.0.0-alpha.4-linux-armv7l.zip | 10
+libcxxabi_headers.zip | 10
+mksnapshot-v41.0.0-alpha.4-linux-x64.zip | 10
+chromedriver-v41.0.0-alpha.4-linux-armv7l.zip | 9
+electron-v41.0.0-alpha.4-win32-arm64-toolchain-profile.zip | 9
+electron-v41.0.0-alpha.4-win32-ia32-toolchain-profile.zip | 9
+electron-v41.0.0-alpha.4-win32-x64-symbols.zip | 9
+ffmpeg-v41.0.0-alpha.4-linux-x64.zip | 9
+ffmpeg-v41.0.0-alpha.4-mas-x64.zip | 9
+mksnapshot-v41.0.0-alpha.4-win32-ia32.zip | 9
+libcxx-objects-v41.0.0-alpha.4-linux-arm64.zip | 8
+libcxx-objects-v41.0.0-alpha.4-linux-x64.zip | 8
+electron-v41.0.0-alpha.4-darwin-arm64-dsym-snapshot.zip | 6
+electron-v41.0.0-alpha.4-darwin-arm64-dsym.tar.xz | 5
+electron-v41.0.0-alpha.4-darwin-x64-dsym.tar.xz | 5
+electron-v41.0.0-alpha.4-linux-armv7l-debug.zip | 5
+electron-v41.0.0-alpha.4-linux-x64-debug.zip | 5
+electron-v41.0.0-alpha.4-mas-arm64-dsym-snapshot.zip | 5
+electron-v41.0.0-alpha.4-mas-arm64-dsym.tar.xz | 5
+electron-v41.0.0-alpha.4-mas-x64-dsym-snapshot.zip | 5
+electron-v41.0.0-alpha.4-mas-x64-dsym.tar.xz | 5
+electron-v41.0.0-alpha.4-win32-arm64-pdb.zip | 5
+electron-v41.0.0-alpha.4-darwin-x64-dsym-snapshot.zip | 4
+electron-v41.0.0-alpha.4-linux-arm64-debug.zip | 4
+electron-v41.0.0-alpha.4-win32-ia32-pdb.zip | 4
+electron-v41.0.0-alpha.4-win32-x64-pdb.zip | 3
+
+</details>
+
 ### v41.0.0-alpha.3
 
 <details><summary>Download Data (2,423 total downloads)</summary>
@@ -50,6 +135,91 @@
 | `electron-v41.0.0-alpha.3-win32-arm64.zip` | 32 |
 | `electron-v41.0.0-alpha.3-mas-arm64.zip` | 30 |
 | `electron-v41.0.0-alpha.3-mas-x64.zip` | 27 |
+
+</details>
+
+### v40.1.0
+
+<details><summary>Download Data</summary>
+
+File | Downloads
+--- | ---
+electron-v40.1.0-linux-x64.zip | 5998
+electron-v40.1.0-win32-x64.zip | 5607
+electron-v40.1.0-darwin-arm64.zip | 2641
+chromedriver-v40.1.0-linux-x64.zip | 2107
+SHASUMS256.txt | 1069
+electron-v40.1.0-darwin-x64.zip | 487
+electron-v40.1.0-linux-arm64.zip | 323
+electron-v40.1.0-win32-arm64.zip | 221
+electron-v40.1.0-win32-ia32.zip | 145
+chromedriver-v40.1.0-win32-x64.zip | 97
+chromedriver-v40.1.0-linux-arm64.zip | 63
+electron-v40.1.0-linux-armv7l.zip | 63
+chromedriver-v40.1.0-linux-armv7l.zip | 50
+mksnapshot-v40.1.0-win32-x64.zip | 42
+chromedriver-v40.1.0-darwin-arm64.zip | 40
+mksnapshot-v40.1.0-linux-x64.zip | 38
+mksnapshot-v40.1.0-darwin-arm64.zip | 36
+ffmpeg-v40.1.0-win32-x64.zip | 34
+electron-v40.1.0-win32-x64-symbols.zip | 31
+electron-v40.1.0-win32-x64-toolchain-profile.zip | 30
+chromedriver-v40.1.0-win32-ia32.zip | 29
+electron-v40.1.0-darwin-arm64-symbols.zip | 29
+electron-v40.1.0-win32-ia32-symbols.zip | 29
+chromedriver-v40.1.0-mas-arm64.zip | 28
+ffmpeg-v40.1.0-linux-x64.zip | 28
+hunspell_dictionaries.zip | 28
+chromedriver-v40.1.0-darwin-x64.zip | 27
+chromedriver-v40.1.0-win32-arm64.zip | 27
+ffmpeg-v40.1.0-darwin-arm64.zip | 27
+ffmpeg-v40.1.0-win32-arm64.zip | 27
+chromedriver-v40.1.0-mas-x64.zip | 26
+electron-api.json | 26
+electron-v40.1.0-win32-ia32-toolchain-profile.zip | 26
+ffmpeg-v40.1.0-linux-arm64.zip | 26
+ffmpeg-v40.1.0-win32-ia32.zip | 26
+electron-v40.1.0-mas-arm64.zip | 25
+electron-v40.1.0-win32-arm64-symbols.zip | 25
+electron-v40.1.0-win32-arm64-toolchain-profile.zip | 25
+ffmpeg-v40.1.0-linux-armv7l.zip | 25
+libcxx-objects-v40.1.0-linux-arm64.zip | 25
+libcxx-objects-v40.1.0-linux-x64.zip | 25
+libcxxabi_headers.zip | 25
+electron-v40.1.0-mas-x64.zip | 24
+ffmpeg-v40.1.0-mas-x64.zip | 24
+libcxx_headers.zip | 24
+mksnapshot-v40.1.0-darwin-x64.zip | 24
+mksnapshot-v40.1.0-win32-arm64-x64.zip | 24
+mksnapshot-v40.1.0-win32-ia32.zip | 24
+electron-v40.1.0-darwin-x64-symbols.zip | 23
+electron-v40.1.0-linux-arm64-symbols.zip | 23
+electron-v40.1.0-linux-x64-symbols.zip | 23
+libcxx-objects-v40.1.0-linux-armv7l.zip | 23
+mksnapshot-v40.1.0-linux-arm64-x64.zip | 23
+electron-v40.1.0-win32-ia32-pdb.zip | 22
+electron.d.ts | 22
+ffmpeg-v40.1.0-darwin-x64.zip | 22
+ffmpeg-v40.1.0-mas-arm64.zip | 22
+mksnapshot-v40.1.0-linux-armv7l-x64.zip | 22
+mksnapshot-v40.1.0-mas-arm64.zip | 22
+mksnapshot-v40.1.0-mas-x64.zip | 22
+electron-v40.1.0-linux-armv7l-symbols.zip | 21
+electron-v40.1.0-mas-arm64-symbols.zip | 21
+electron-v40.1.0-win32-x64-pdb.zip | 21
+electron-v40.1.0-mas-x64-symbols.zip | 20
+electron-v40.1.0-mas-x64-dsym-snapshot.zip | 16
+electron-v40.1.0-win32-arm64-pdb.zip | 16
+electron-v40.1.0-darwin-arm64-dsym-snapshot.zip | 15
+electron-v40.1.0-linux-x64-debug.zip | 15
+electron-v40.1.0-darwin-x64-dsym-snapshot.zip | 14
+electron-v40.1.0-mas-arm64-dsym-snapshot.zip | 14
+electron-v40.1.0-darwin-arm64-dsym.tar.xz | 13
+electron-v40.1.0-linux-arm64-debug.zip | 13
+electron-v40.1.0-linux-armv7l-debug.zip | 13
+electron-v40.1.0-mas-arm64-dsym.tar.xz | 13
+electron-v40.1.0-mas-x64-dsym.tar.xz | 13
+electron-v40.1.0-darwin-x64-dsym.tar.xz | 12
 
 </details>
 
