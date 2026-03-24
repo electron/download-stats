@@ -1,12 +1,8 @@
 {
-  "start": "2024-09-24",
-  "end": "2026-03-24",
+  "start": "2024-09-25",
+  "end": "2026-03-25",
   "package": "electron-prebuilt-compile",
   "downloads": [
-    {
-      "downloads": 1043,
-      "day": "2024-09-24"
-    },
     {
       "downloads": 746,
       "day": "2024-09-25"
@@ -2160,15 +2156,15 @@
       "day": "2026-03-16"
     },
     {
-      "downloads": 0,
+      "downloads": 174,
       "day": "2026-03-17"
     },
     {
-      "downloads": 0,
+      "downloads": 160,
       "day": "2026-03-18"
     },
     {
-      "downloads": 0,
+      "downloads": 92,
       "day": "2026-03-19"
     },
     {
@@ -2184,12 +2180,16 @@
       "day": "2026-03-22"
     },
     {
-      "downloads": 0,
+      "downloads": 142,
       "day": "2026-03-23"
     },
     {
       "downloads": 0,
       "day": "2026-03-24"
+    },
+    {
+      "downloads": 0,
+      "day": "2026-03-25"
     }
   ]
 }
