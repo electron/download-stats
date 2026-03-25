@@ -10,7 +10,9 @@ permissions: {}
 jobs:
   main:
     name: Check Latest Download Statistics
-    environment: auto-updater
+    environment:
+      name: auto-updater
+      deployment: false
     runs-on: ubuntu-latest
     permissions:
       id-token: write # needed for secret-service-action
