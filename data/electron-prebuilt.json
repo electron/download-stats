@@ -1,12 +1,8 @@
 {
-  "start": "2024-10-04",
-  "end": "2026-04-04",
+  "start": "2024-10-05",
+  "end": "2026-04-05",
   "package": "electron-prebuilt",
   "downloads": [
-    {
-      "downloads": 810,
-      "day": "2024-10-04"
-    },
     {
       "downloads": 148,
       "day": "2024-10-05"
@@ -2188,12 +2184,16 @@
       "day": "2026-04-02"
     },
     {
-      "downloads": 0,
+      "downloads": 313,
       "day": "2026-04-03"
     },
     {
       "downloads": 0,
       "day": "2026-04-04"
+    },
+    {
+      "downloads": 0,
+      "day": "2026-04-05"
     }
   ]
 }
