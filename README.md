@@ -8,7 +8,7 @@
 
 | Month | Daily Downloads |
 | :---: | ---: |
-| 2024-12 | 20,093 |
+| 2024-12 | 18,899 |
 | 2025-01 | 123,492 |
 | 2025-02 | 130,377 |
 | 2025-03 | 161,017 |
@@ -35,80 +35,80 @@
 
 ### v43.0.0-beta.5
 
-<details><summary>Download Data (2,464 total downloads)</summary>
+<details><summary>Download Data (3,717 total downloads)</summary>
 
 | File | Downloads |
 | :--- | ---: |
-| `electron-v43.0.0-beta.5-win32-x64.zip` | 86 |
-| `SHASUMS256.txt` | 74 |
-| `electron-v43.0.0-beta.5-linux-x64.zip` | 51 |
-| `electron-v43.0.0-beta.5-darwin-arm64.zip` | 46 |
-| `electron-v43.0.0-beta.5-win32-ia32.zip` | 46 |
-| `electron-v43.0.0-beta.5-darwin-x64.zip` | 42 |
-| `electron-v43.0.0-beta.5-win32-arm64.zip` | 38 |
-| `electron-v43.0.0-beta.5-mas-x64.zip` | 37 |
-| `electron-v43.0.0-beta.5-mas-arm64.zip` | 36 |
-| `electron-v43.0.0-beta.5-linux-arm64.zip` | 33 |
-| `electron-v43.0.0-beta.5-linux-armv7l.zip` | 32 |
+| `electron-v43.0.0-beta.5-win32-x64.zip` | 115 |
+| `SHASUMS256.txt` | 105 |
+| `electron-v43.0.0-beta.5-darwin-arm64.zip` | 78 |
+| `electron-v43.0.0-beta.5-linux-x64.zip` | 68 |
+| `electron-v43.0.0-beta.5-win32-ia32.zip` | 63 |
+| `electron-v43.0.0-beta.5-darwin-x64.zip` | 59 |
+| `electron-v43.0.0-beta.5-win32-arm64.zip` | 55 |
+| `electron-v43.0.0-beta.5-mas-x64.zip` | 54 |
+| `electron-v43.0.0-beta.5-mas-arm64.zip` | 53 |
+| `electron-v43.0.0-beta.5-linux-arm64.zip` | 50 |
+| `electron-v43.0.0-beta.5-linux-armv7l.zip` | 49 |
 
 </details>
 
 ### v42.4.1
 
-<details><summary>Download Data (165,469 total downloads)</summary>
+<details><summary>Download Data (207,598 total downloads)</summary>
 
 | File | Downloads |
 | :--- | ---: |
-| `SHASUMS256.txt` | 70,015 |
-| `electron-v42.4.1-linux-x64.zip` | 38,273 |
-| `electron-v42.4.1-win32-x64.zip` | 32,497 |
-| `electron-v42.4.1-darwin-arm64.zip` | 14,439 |
-| `electron-v42.4.1-darwin-x64.zip` | 3,223 |
-| `electron-v42.4.1-win32-arm64.zip` | 1,202 |
-| `electron-v42.4.1-linux-arm64.zip` | 818 |
-| `electron-v42.4.1-win32-ia32.zip` | 409 |
-| `electron-v42.4.1-linux-armv7l.zip` | 119 |
-| `electron-v42.4.1-mas-arm64.zip` | 91 |
-| `electron-v42.4.1-mas-x64.zip` | 79 |
+| `SHASUMS256.txt` | 89,831 |
+| `electron-v42.4.1-linux-x64.zip` | 48,852 |
+| `electron-v42.4.1-win32-x64.zip` | 39,541 |
+| `electron-v42.4.1-darwin-arm64.zip` | 17,745 |
+| `electron-v42.4.1-darwin-x64.zip` | 3,883 |
+| `electron-v42.4.1-win32-arm64.zip` | 1,323 |
+| `electron-v42.4.1-linux-arm64.zip` | 1,012 |
+| `electron-v42.4.1-win32-ia32.zip` | 471 |
+| `electron-v42.4.1-linux-armv7l.zip` | 141 |
+| `electron-v42.4.1-mas-arm64.zip` | 97 |
+| `electron-v42.4.1-mas-x64.zip` | 85 |
 
 </details>
 
 ### v41.8.0
 
-<details><summary>Download Data (18,357 total downloads)</summary>
+<details><summary>Download Data (22,083 total downloads)</summary>
 
 | File | Downloads |
 | :--- | ---: |
-| `electron-v41.8.0-linux-x64.zip` | 7,544 |
-| `SHASUMS256.txt` | 2,867 |
-| `electron-v41.8.0-win32-x64.zip` | 2,135 |
-| `electron-v41.8.0-darwin-arm64.zip` | 1,035 |
-| `electron-v41.8.0-linux-arm64.zip` | 323 |
-| `electron-v41.8.0-darwin-x64.zip` | 312 |
-| `electron-v41.8.0-win32-arm64.zip` | 194 |
-| `electron-v41.8.0-win32-ia32.zip` | 160 |
-| `electron-v41.8.0-linux-armv7l.zip` | 31 |
-| `electron-v41.8.0-mas-arm64.zip` | 21 |
-| `electron-v41.8.0-mas-x64.zip` | 19 |
+| `electron-v41.8.0-linux-x64.zip` | 9,050 |
+| `SHASUMS256.txt` | 3,767 |
+| `electron-v41.8.0-win32-x64.zip` | 2,634 |
+| `electron-v41.8.0-darwin-arm64.zip` | 1,306 |
+| `electron-v41.8.0-linux-arm64.zip` | 388 |
+| `electron-v41.8.0-darwin-x64.zip` | 363 |
+| `electron-v41.8.0-win32-arm64.zip` | 226 |
+| `electron-v41.8.0-win32-ia32.zip` | 171 |
+| `electron-v41.8.0-linux-armv7l.zip` | 38 |
+| `electron-v41.8.0-mas-arm64.zip` | 22 |
+| `electron-v41.8.0-mas-x64.zip` | 20 |
 
 </details>
 
 ### v40.10.4
 
-<details><summary>Download Data (26,033 total downloads)</summary>
+<details><summary>Download Data (29,589 total downloads)</summary>
 
 | File | Downloads |
 | :--- | ---: |
-| `electron-v40.10.4-linux-x64.zip` | 14,266 |
-| `electron-v40.10.4-win32-x64.zip` | 1,843 |
-| `SHASUMS256.txt` | 1,811 |
-| `electron-v40.10.4-darwin-arm64.zip` | 886 |
-| `electron-v40.10.4-darwin-x64.zip` | 233 |
-| `electron-v40.10.4-win32-ia32.zip` | 160 |
-| `electron-v40.10.4-win32-arm64.zip` | 150 |
-| `electron-v40.10.4-linux-arm64.zip` | 137 |
-| `electron-v40.10.4-linux-armv7l.zip` | 30 |
-| `electron-v40.10.4-mas-arm64.zip` | 17 |
-| `electron-v40.10.4-mas-x64.zip` | 16 |
+| `electron-v40.10.4-linux-x64.zip` | 16,297 |
+| `SHASUMS256.txt` | 2,129 |
+| `electron-v40.10.4-win32-x64.zip` | 2,064 |
+| `electron-v40.10.4-darwin-arm64.zip` | 986 |
+| `electron-v40.10.4-darwin-x64.zip` | 252 |
+| `electron-v40.10.4-win32-ia32.zip` | 165 |
+| `electron-v40.10.4-win32-arm64.zip` | 159 |
+| `electron-v40.10.4-linux-arm64.zip` | 155 |
+| `electron-v40.10.4-linux-armv7l.zip` | 32 |
+| `electron-v40.10.4-mas-arm64.zip` | 18 |
+| `electron-v40.10.4-mas-x64.zip` | 17 |
 
 </details>
