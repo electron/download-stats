@@ -1,12 +1,8 @@
 {
-  "start": "2025-02-22",
-  "end": "2026-08-22",
+  "start": "2025-02-23",
+  "end": "2026-08-23",
   "package": "electron",
   "downloads": [
-    {
-      "downloads": 52654,
-      "day": "2025-02-22"
-    },
     {
       "downloads": 49694,
       "day": "2025-02-23"
@@ -2180,16 +2176,20 @@
       "day": "2026-08-19"
     },
     {
-      "downloads": 0,
+      "downloads": 980251,
       "day": "2026-08-20"
     },
     {
-      "downloads": 0,
+      "downloads": 934633,
       "day": "2026-08-21"
     },
     {
       "downloads": 0,
       "day": "2026-08-22"
+    },
+    {
+      "downloads": 0,
+      "day": "2026-08-23"
     }
   ]
 }
