@@ -1,20 +1,8 @@
 {
-  "start": "2025-03-30",
-  "end": "2026-09-30",
+  "start": "2025-04-02",
+  "end": "2026-10-02",
   "package": "electron-nightly",
   "downloads": [
-    {
-      "downloads": 17,
-      "day": "2025-03-30"
-    },
-    {
-      "downloads": 83,
-      "day": "2025-03-31"
-    },
-    {
-      "downloads": 71,
-      "day": "2025-04-01"
-    },
     {
       "downloads": 72,
       "day": "2025-04-02"
@@ -1868,7 +1856,7 @@
       "day": "2026-07-08"
     },
     {
-      "downloads": 0,
+      "downloads": 85,
       "day": "2026-07-09"
     },
     {
@@ -2192,16 +2180,24 @@
       "day": "2026-09-27"
     },
     {
-      "downloads": 0,
+      "downloads": 395,
       "day": "2026-09-28"
     },
     {
-      "downloads": 0,
+      "downloads": 382,
       "day": "2026-09-29"
     },
     {
       "downloads": 0,
       "day": "2026-09-30"
+    },
+    {
+      "downloads": 0,
+      "day": "2026-10-01"
+    },
+    {
+      "downloads": 0,
+      "day": "2026-10-02"
     }
   ]
 }
