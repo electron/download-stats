@@ -33,76 +33,76 @@
 > Download counts for the latest release in each supported version.
 
 
-### v46.0.0-alpha.2
+### v46.0.0-alpha.3
 
-<details><summary>Download Data (1,478 total downloads)</summary>
+<details><summary>Download Data (1,023 total downloads)</summary>
 
 | File | Downloads |
 | :--- | ---: |
-| `electron-v46.0.0-alpha.2-win32-x64.zip` | 248 |
-| `SHASUMS256.txt` | 198 |
-| `electron-v46.0.0-alpha.2-linux-x64.zip` | 90 |
-| `electron-v46.0.0-alpha.2-darwin-arm64.zip` | 69 |
-| `electron-v46.0.0-alpha.2-win32-arm64.zip` | 26 |
-| `electron-v46.0.0-alpha.2-darwin-x64.zip` | 17 |
-| `electron-v46.0.0-alpha.2-linux-arm64.zip` | 16 |
-| `electron-v46.0.0-alpha.2-mas-arm64.zip` | 10 |
-| `electron-v46.0.0-alpha.2-mas-x64.zip` | 10 |
+| `electron-v46.0.0-alpha.3-win32-x64.zip` | 63 |
+| `electron-v46.0.0-alpha.3-linux-x64.zip` | 38 |
+| `SHASUMS256.txt` | 18 |
+| `electron-v46.0.0-alpha.3-darwin-arm64.zip` | 16 |
+| `electron-v46.0.0-alpha.3-linux-arm64.zip` | 15 |
+| `electron-v46.0.0-alpha.3-darwin-x64.zip` | 13 |
+| `electron-v46.0.0-alpha.3-mas-x64.zip` | 11 |
+| `electron-v46.0.0-alpha.3-win32-arm64.zip` | 11 |
+| `electron-v46.0.0-alpha.3-mas-arm64.zip` | 10 |
 
 </details>
 
-### v45.1.0
+### v45.2.0
 
-<details><summary>Download Data (186,442 total downloads)</summary>
+<details><summary>Download Data (5,070 total downloads)</summary>
 
 | File | Downloads |
 | :--- | ---: |
-| `SHASUMS256.txt` | 92,239 |
-| `electron-v45.1.0-win32-x64.zip` | 46,885 |
-| `electron-v45.1.0-linux-x64.zip` | 19,934 |
-| `electron-v45.1.0-darwin-arm64.zip` | 17,849 |
-| `electron-v45.1.0-darwin-x64.zip` | 5,247 |
-| `electron-v45.1.0-linux-arm64.zip` | 941 |
-| `electron-v45.1.0-win32-arm64.zip` | 764 |
-| `electron-v45.1.0-mas-arm64.zip` | 79 |
-| `electron-v45.1.0-mas-x64.zip` | 49 |
+| `SHASUMS256.txt` | 2,012 |
+| `electron-v45.2.0-win32-x64.zip` | 1,412 |
+| `electron-v45.2.0-darwin-arm64.zip` | 584 |
+| `electron-v45.2.0-linux-x64.zip` | 549 |
+| `electron-v45.2.0-darwin-x64.zip` | 73 |
+| `electron-v45.2.0-linux-arm64.zip` | 53 |
+| `electron-v45.2.0-win32-arm64.zip` | 18 |
+| `electron-v45.2.0-mas-arm64.zip` | 6 |
+| `electron-v45.2.0-mas-x64.zip` | 5 |
 
 </details>
 
 ### v44.10.0
 
-<details><summary>Download Data (51,922 total downloads)</summary>
+<details><summary>Download Data (86,613 total downloads)</summary>
 
 | File | Downloads |
 | :--- | ---: |
-| `SHASUMS256.txt` | 20,041 |
-| `electron-v44.10.0-linux-x64.zip` | 12,454 |
-| `electron-v44.10.0-win32-x64.zip` | 10,073 |
-| `electron-v44.10.0-darwin-arm64.zip` | 4,779 |
-| `electron-v44.10.0-darwin-x64.zip` | 1,608 |
-| `electron-v44.10.0-linux-arm64.zip` | 558 |
-| `electron-v44.10.0-win32-arm64.zip` | 440 |
-| `electron-v44.10.0-mas-arm64.zip` | 38 |
-| `electron-v44.10.0-mas-x64.zip` | 17 |
+| `SHASUMS256.txt` | 34,481 |
+| `electron-v44.10.0-linux-x64.zip` | 21,589 |
+| `electron-v44.10.0-win32-x64.zip` | 15,461 |
+| `electron-v44.10.0-darwin-arm64.zip` | 8,003 |
+| `electron-v44.10.0-darwin-x64.zip` | 2,574 |
+| `electron-v44.10.0-linux-arm64.zip` | 1,035 |
+| `electron-v44.10.0-win32-arm64.zip` | 698 |
+| `electron-v44.10.0-mas-arm64.zip` | 43 |
+| `electron-v44.10.0-mas-x64.zip` | 19 |
 
 </details>
 
-### v43.8.4
+### v43.8.5
 
-<details><summary>Download Data (25,992 total downloads)</summary>
+<details><summary>Download Data (523 total downloads)</summary>
 
 | File | Downloads |
 | :--- | ---: |
-| `SHASUMS256.txt` | 8,708 |
-| `electron-v43.8.4-linux-x64.zip` | 6,102 |
-| `electron-v43.8.4-win32-x64.zip` | 4,495 |
-| `electron-v43.8.4-darwin-arm64.zip` | 3,412 |
-| `electron-v43.8.4-darwin-x64.zip` | 973 |
-| `electron-v43.8.4-linux-arm64.zip` | 525 |
-| `electron-v43.8.4-win32-ia32.zip` | 320 |
-| `electron-v43.8.4-win32-arm64.zip` | 188 |
-| `electron-v43.8.4-linux-armv7l.zip` | 42 |
-| `electron-v43.8.4-mas-arm64.zip` | 22 |
-| `electron-v43.8.4-mas-x64.zip` | 18 |
+| `electron-v43.8.5-linux-armv7l.zip` | 32 |
+| `electron-v43.8.5-linux-arm64.zip` | 26 |
+| `electron-v43.8.5-linux-x64.zip` | 25 |
+| `electron-v43.8.5-win32-x64.zip` | 10 |
+| `electron-v43.8.5-win32-ia32.zip` | 8 |
+| `SHASUMS256.txt` | 8 |
+| `electron-v43.8.5-darwin-arm64.zip` | 7 |
+| `electron-v43.8.5-darwin-x64.zip` | 7 |
+| `electron-v43.8.5-win32-arm64.zip` | 7 |
+| `electron-v43.8.5-mas-arm64.zip` | 6 |
+| `electron-v43.8.5-mas-x64.zip` | 6 |
 
 </details>
