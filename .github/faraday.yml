@@ -8,6 +8,7 @@ trusted-bots:
   # electron-pr-approver.
   - login: electron-download-statistician[bot]
     id: 144944860
+    paths: ['data/**', '*.md']
     approvers:
       - login: electron-pr-approver[bot]
         id: 237345921
